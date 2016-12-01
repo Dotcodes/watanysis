@@ -18,4 +18,4 @@ Watansys is give following informatopn following.<br>
 <p>Ater getting the chat-history.txt file upload that file in it. All are done you get a power full analysis report of about yor group.</p>
 <h4>Step 3</h4>
 <img src="https://github.com/Dotcodes/watanysis/blob/master/step3.jpeg?raw=true" width="222px"><hr>
-<p>Ater getting the chat-history.txt file upload that file in this site. All are done you get a power full analysis report of about your group.</p>
+<p>After getting the chat-history.txt file upload that file in this site. All are done you get a power full analysis report of about your group.</p>
