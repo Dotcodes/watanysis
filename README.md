@@ -11,6 +11,7 @@ Watansys is give following informatopn following.<br>
 8. <b>TOTAL NUMBERS</b>Days you are chatting, message count, word count<br>
 <h3>How to Use</h3><hr>
 <h4>Step 1</h4>
+<img src="https://github.com/Dotcodes/watanysis/blob/master/step1.jpeg?raw=true" width="322px">
 <p>Open a chat and click on the <b>menu</b> button at the top right. Then select More, choose Email chat and click <b>WITHOUT MEDIA</b>.</p>
 <h4>Step 2</h4>
 <p>Ater getting the chat-history.txt file upload that file in it. All are done you get a power full analysis report of about yor group.</p>
