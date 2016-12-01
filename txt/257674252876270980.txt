@@ -1,0 +1,1917 @@
+11/13/16, 1:29 PM - Messages you send to this group are now secured with end-to-end encryption. Tap for more info.
+11/13/16, 2:39 PM - ‪+60 11-3672 2876‬ joined using this group's invite link
+11/13/16, 5:43 PM - steven newzealand joined using this group's invite link
+11/13/16, 6:01 PM - steven newzealand: Hi everyone,
+
+Let me inteoduce myself:
+I am Steven, I'm currently 17 years old and I joined this via Sololearn.
+
+I'm from The Netherlands, and I'm specialized in HTML text and form codes.
+
+I hope I'm not disturbing you all.
+11/13/16, 6:02 PM - Naveen DA: welcome steven I am naveen from india,  currently working on GV Infotech as a web developer
+11/13/16, 6:03 PM - steven newzealand: Hi Naveen. If I can help, you can always send in a message:)
+11/13/16, 6:36 PM - ‪+91 96083 85176‬ joined using this group's invite link
+11/13/16, 6:37 PM - ‪+91 96083 85176‬: I found this groups link on sololearn
+11/13/16, 6:37 PM - Naveen DA: welcome lotan chatterjee
+11/13/16, 6:38 PM - ‪+91 96083 85176‬: Thanx
+11/13/16, 6:39 PM - steven newzealand: Welcome Lotan😄
+11/13/16, 6:39 PM - ‪+91 96083 85176‬: Are you TeamTGN
+11/13/16, 6:39 PM - steven newzealand: Yes I am
+11/13/16, 6:39 PM - steven newzealand: I'm Steven
+11/13/16, 6:39 PM - ‪+91 96083 85176‬: Oh yes I Am Sandeep Chatterjee You Can view my profile on sololearn
+11/13/16, 6:40 PM - steven newzealand: Okay
+11/13/16, 6:41 PM - steven newzealand: So, what specialism do you have when it comes to coding?
+11/13/16, 6:42 PM - ‪+91 96083 85176‬: I know variety of languages but I am specialised at web development specially js and I know Java and c++ too
+11/13/16, 6:42 PM - steven newzealand: Nice
+11/13/16, 6:43 PM - ‪+91 96083 85176‬: I make my own codes for html CSS js I am not so super good at PHP syntax
+11/13/16, 6:44 PM - ‪+91 96083 85176‬: I have learnt jquery bootstrap and angular too
+11/13/16, 6:44 PM - ‪+91 96083 85176‬: My reason of joining this group is solely learning
+11/13/16, 6:45 PM - Naveen DA: hey @919608385176   Have you thing angular is better than jquery
+11/13/16, 6:46 PM - ‪+91 96083 85176‬: Yes angular definitely provides faster programming
+11/13/16, 6:47 PM - ‪+91 96083 85176‬: But it's hard to compare them as both are for different purpose
+11/13/16, 6:47 PM - steven newzealand: My specialism is HTML text and form codes, but I'm still learning!
+11/13/16, 6:47 PM - ‪+91 96083 85176‬: Oh wow😁
+11/13/16, 6:49 PM - Naveen DA: yeah, thanks
+11/13/16, 6:52 PM - steven newzealand: Right now, I'm learning JavaScript, I started like yesterday
+11/13/16, 6:53 PM - ‪+34 622 42 23 80‬ joined using this group's invite link
+11/13/16, 6:53 PM - ‪+91 96083 85176‬: You can ask me for help I would try if I know
+11/13/16, 6:53 PM - steven newzealand: Okay thanks
+11/13/16, 6:53 PM - Naveen DA: Me also. help you
+11/13/16, 6:54 PM - Naveen DA: *List of usefull sites for web designer*
+1 http://uigradients.com/
+2 https://flatuicolors.com/
+3 https://github-ranking.com/
+4 https://dribbble.com/
+5 http://caniuse.com
+6 https://html5test.com/
+7 http://enjoycss.com/
+8 http://tympanus.net/codrops/
+9 http://callmenick.com/
+10 https://www.siteinspire.com/
+11/13/16, 6:54 PM - ‪+91 96083 85176‬: I too will seek help when I get stuck at problems
+11/13/16, 6:54 PM - steven newzealand: Okay thanks a lot. If you need any help with HTML, then you can count me in!
+11/13/16, 6:55 PM - Naveen DA: ok
+11/13/16, 6:59 PM - ‪+91 95675 40696‬ joined using this group's invite link
+11/13/16, 7:05 PM - ‪+61 410 060 213‬ joined using this group's invite link
+11/13/16, 7:07 PM - ‪+61 410 060 213‬: Hello
+11/13/16, 7:08 PM - steven newzealand: Welcome
+11/13/16, 7:09 PM - ‪+61 410 060 213‬: <Media omitted>
+11/13/16, 7:09 PM - steven newzealand: Let me help you
+11/13/16, 7:11 PM - Naveen DA: <a href="http://www.sololearn.com">
+<img src="1.jpg" alt=""/>
+</a>
+11/13/16, 7:11 PM - steven newzealand: Oh nvm then.
+11/13/16, 7:11 PM - ‪+61 410 060 213‬: Lol well THX
+11/13/16, 7:15 PM - steven newzealand: So, I got one question about HTML:
+
+If I got a form, what tag makes sure that if someone fills in the form, it'll send an email to me?
+11/13/16, 7:17 PM - Naveen DA: you cant do with only HTML
+11/13/16, 7:17 PM - steven newzealand: Oh okay
+11/13/16, 7:17 PM - ‪+91 96083 85176‬: Use js like document.getElementById("inputyouemail").on click=function(email address){ }
+11/13/16, 7:18 PM - steven newzealand: Thank you.
+11/13/16, 7:18 PM - steven newzealand: I got an complete code, and I was making that
+11/13/16, 7:18 PM - steven newzealand: I was missing that*
+11/13/16, 7:18 PM - ‪+91 96083 85176‬: Sending email it's not good idea these things are sent to server and taken using PHP
+11/13/16, 7:19 PM - steven newzealand: Oh okay
+11/13/16, 7:20 PM - ‪+91 96083 85176‬: Your input may get thousands of click per minute think of your inbox
+11/13/16, 7:20 PM - Naveen DA: but in php mail() function is not work properly, you can use PHPmailer
+11/13/16, 7:20 PM - steven newzealand: Your right. How stupid
+11/13/16, 7:23 PM - ‪+91 96083 85176‬: Navin you seem from India friend me too 🇮🇳
+ have you got jio sim
+11/13/16, 7:24 PM - Naveen DA: yes lottan
+11/13/16, 7:24 PM - Naveen DA: why?
+11/13/16, 7:25 PM - ‪+91 96083 85176‬: No nothing 😀 I guessed from the no. Friend
+11/13/16, 7:26 PM - Naveen DA: No its idea
+11/13/16, 7:29 PM - ‪+91 96083 85176‬: Ok
+Do you saw the Google's new page it has got material design
+11/13/16, 7:29 PM - Naveen DA: yes
+11/13/16, 7:29 PM - ‪+91 96219 46192‬ joined using this group's invite link
+11/13/16, 7:30 PM - ‪+91 96083 85176‬: Did you saw it it is visible in desktop version only the material
+11/13/16, 7:31 PM - Naveen DA: no
+11/13/16, 7:31 PM - Naveen DA: lets check it
+11/13/16, 7:32 PM - ‪+91 96083 85176‬: Oh sorry may be well mobile version has got it already but the PC got the ripple effect input
+11/13/16, 7:33 PM - ‪+91 96083 85176‬: I thought you saw in PC  perhaps it is in android too sorry
+11/13/16, 7:34 PM - Naveen DA: oh
+11/13/16, 7:42 PM - ‪+91 96219 46192‬: I want just know about all of you 
+🔹
+i am mithun verma 
+distic lucknow 
+Up
+11/13/16, 7:43 PM - ‪+91 96083 85176‬: I am Sandeep Chatterjee
+Jharkhand India
+11/13/16, 7:43 PM - steven newzealand: Hi Mithun,
+
+I am Steven
+Overijssel, The Netherlands
+11/13/16, 7:43 PM - Naveen DA: I am Naveen Tamilnadu
+11/13/16, 7:44 PM - ‪+91 96083 85176‬: You can view my coder profile at solo learn by name of Sandeep Chatterjee
+11/13/16, 7:44 PM - ‪+91 96083 85176‬: Vannakam Naveen
+11/13/16, 7:45 PM - steven newzealand: I already saw your profile, Sandeep. Yoy don't have any public codes
+11/13/16, 7:45 PM - ‪+91 96219 46192‬: Thanks brothers
+11/13/16, 7:45 PM - ‪+91 96219 46192‬: is all of you student
+🔹
+I am student
+11/13/16, 7:46 PM - ‪+91 96083 85176‬: Yeah sorry I have not published them
+11/13/16, 7:46 PM - steven newzealand: I am currently on high school. I'm 17
+11/13/16, 7:46 PM - ‪+91 96083 85176‬: Nice to meet you all
+11/13/16, 7:46 PM - steven newzealand: Same
+11/13/16, 7:47 PM - Vimalan.D left
+11/13/16, 7:47 PM - ‪+91 96083 85176‬: Me too student
+11/13/16, 7:48 PM - steven newzealand: So Mithun,
+
+What can you do/are you learning in code languages
+11/13/16, 7:50 PM - ‪+91 96219 46192‬: Yas
+Actually
+I am persuing b- tech
+11/13/16, 7:50 PM - steven newzealand: Nice
+11/13/16, 7:51 PM - steven newzealand: I am the noob in this group apparently
+11/13/16, 7:51 PM - ‪+91 96083 85176‬: So what are we gonna do on this chat group discussion of coding
+11/13/16, 7:52 PM - ‪+49 1575 2196506‬ joined using this group's invite link
+11/13/16, 7:52 PM - steven newzealand: What about helping each other on different code languages?
+11/13/16, 7:53 PM - ‪+91 96083 85176‬: Yes 😌😬😀💻📲
+11/13/16, 7:54 PM - steven newzealand: 😄👍
+11/13/16, 7:59 PM - Vimalan.D joined using this group's invite link
+11/13/16, 8:00 PM - ‪+91 96083 85176‬: Oh we have got 10 members in just a few time
+11/13/16, 8:00 PM - Naveen DA: its great news 😊
+11/13/16, 8:01 PM - steven newzealand: I think it's going to be a very big group
+11/13/16, 8:07 PM - ‪+91 96083 85176‬: You are you guys silent just post your website ideas dude ✍🏼
+11/13/16, 8:08 PM - steven newzealand: I don't have ideas yet...
+
+Maybe a contact form?
+11/13/16, 8:09 PM - ‪+91 96083 85176‬: Solo learn should have these kind of group shouldnt it itself is a group but still that would be lot more easy
+11/13/16, 8:10 PM - ‪+91 96083 85176‬: Oh contact form great idea
+11/13/16, 8:10 PM - steven newzealand: I can set up the page for the contact form, if you want.
+
+Just tell me how it needs to look.
+11/13/16, 8:11 PM - Naveen DA: guys checkout this jquery plugin, which makes you contact form more fun https://kushagragour.in/lab/superplaceholderjs/
+11/13/16, 8:12 PM - steven newzealand: Thing is:
+I can't make it work. Like, when someone contacts you, I can't make it that it sends an message/email.
+11/13/16, 8:13 PM - steven newzealand: I can onky make thw page look cool.
+11/13/16, 8:13 PM - steven newzealand: Sorry.
+11/13/16, 8:15 PM - ‪+91 96083 85176‬: Yes but web languages are supposed to just do this to add other function you need to add other programs at the host computer need to learn programming languages
+11/13/16, 8:18 PM - ‪+91 96083 85176‬: The form can send all the data in specified method which can be used to do whatever processing you are thinking of for example it can post through CGI at specified url and CGI can be read handled store your data through a c++ program they are good for this method
+11/13/16, 8:19 PM - steven newzealand: I didn't learn C++ yet. I can only do HTML so far
+11/13/16, 8:20 PM - ‪+91 96083 85176‬: Oh well CGI commands may not be taught at solo learn as they are not counted in basics however CGI is very simple
+11/13/16, 8:20 PM - Naveen DA: @lottan he is a 17years old kit,  and he is just a beginner
+11/13/16, 8:20 PM - Naveen DA: kid
+11/13/16, 8:21 PM - steven newzealand: I started learning yesterday
+11/13/16, 8:21 PM - ‪+91 96083 85176‬: Ok me too is beginner for these problem
+11/13/16, 8:21 PM - ‪+91 96083 85176‬: Ok I will talk in simple terms.
+11/13/16, 8:21 PM - steven newzealand: Okay
+11/13/16, 8:22 PM - ‪+91 96083 85176‬: Websites like Facebook do this via php language
+11/13/16, 8:22 PM - ‪+49 1575 2196506‬: Java,jscript and a little style
+11/13/16, 8:22 PM - steven newzealand: Okay.
+11/13/16, 8:23 PM - Naveen DA: @steven open a stackoverflow.com account,  it will help to get a better job
+11/13/16, 8:23 PM - Naveen DA: when you need at time
+11/13/16, 8:24 PM - steven newzealand: Thanks Naveen
+11/13/16, 8:26 PM - ‪+91 97020 12264‬ joined using this group's invite link
+11/13/16, 8:26 PM - ‪+91 96083 85176‬: Html does not have anything like fetching information from inputs verifying input changing content of it after it has finished loading and seen. You need other things to do this html just provides framework for these languages to work. It just tells the browser how will the page look like if you are able to make input boxes with cool styles it is more than enough
+11/13/16, 8:28 PM - steven newzealand: Ah okay. I get it.
+
+So you need other languages to know, then just HTML
+11/13/16, 8:29 PM - ‪+91 96083 85176‬: Yes I was just coining examples to help you understand better those short froms were not to scare you friend
+11/13/16, 8:29 PM - ‪+49 1575 2196506‬: We have to develope an idea first, then look at the required languages.
+11/13/16, 8:29 PM - steven newzealand: Your right, Maxim.
+11/13/16, 8:30 PM - Naveen DA: simily steven
+HTML= skeleton
+CSS= skin
+JS= muscle
+SOLE= server side script language
+it may be jsp, node.js,php, ruby, etc
+11/13/16, 8:30 PM - steven newzealand: So, is this a group about helping each other, or are we going to combine our knowledge into a website?
+11/13/16, 8:30 PM - ‪+91 96083 85176‬: I recommend you Steven to finish html first then think of other language you are done with making a form try something other simple thing handling form information dies not come in html
+11/13/16, 8:31 PM - steven newzealand: Ok
+11/13/16, 8:31 PM - ‪+91 96083 85176‬: It will not distract you from learning
+11/13/16, 8:32 PM - steven newzealand: Okay, but one problem...
+
+I think HTML is the only easy language for me.
+11/13/16, 8:32 PM - ‪+91 96083 85176‬: Do you have any other curiosities related to html I will not answer in scary acronyms don't worry... Lol
+11/13/16, 8:33 PM - steven newzealand: Lol, actually, I don't. My curiosity is at HTML only
+11/13/16, 8:34 PM - ‪+91 96083 85176‬: You can try to make articles of different styles in html if you have got enough tags
+11/13/16, 8:35 PM - steven newzealand: I know a lot of tags
+11/13/16, 8:35 PM - Naveen DA: so then move css
+11/13/16, 8:35 PM - Naveen DA: its also. very easy
+11/13/16, 8:35 PM - steven newzealand: Will try, thank you
+11/13/16, 8:35 PM - ‪+91 96083 85176‬: Yes Naveen is righr
+11/13/16, 8:35 PM - ‪+91 96083 85176‬: Right
+11/13/16, 8:36 PM - ‪+91 96083 85176‬: CSS is just easy as html once you get how to select elements it's even easier than html
+11/13/16, 8:37 PM - steven newzealand: Okay, I'll get on it
+11/13/16, 8:38 PM - ‪+91 96083 85176‬: If you face problem remembering the names used in properties then write it in notepad ++
+11/13/16, 8:38 PM - steven newzealand: Ok will do
+11/13/16, 8:39 PM - ‪+91 96083 85176‬: Your html might not be showing cool you can change color size spacing but CSS will make it even better
+11/13/16, 8:39 PM - Naveen DA: use my project for bootstrap code https://github.com/Dotcodes/Boot-hint
+11/13/16, 8:40 PM - steven newzealand: Okay. But shus, @919702012264 was typing
+11/13/16, 8:40 PM - ‪+91 97020 12264‬: I beginner in computer programming. I don't  know where to starting learning. Can any one help me?
+11/13/16, 8:40 PM - ‪+91 97020 12264‬: I beginner in computer programming. I don't  know where to starting learning. Can any one help me?
+11/13/16, 8:41 PM - steven newzealand: Okay nvm then😂
+11/13/16, 8:41 PM - ‪+91 96083 85176‬: Your input for example will get color of your choice borders rings
+11/13/16, 8:41 PM - steven newzealand: Oopa
+11/13/16, 8:41 PM - Naveen DA: go though w3w3schools.com
+11/13/16, 8:42 PM - Naveen DA: w3schools.com
+11/13/16, 8:42 PM - steven newzealand: I should start with HTML. It's very easy. Then move over to CSS, just like what Naveen and Lotan said.
+11/13/16, 8:43 PM - ‪+91 96083 85176‬: If you write codes in notepad then its perfect I to do this once I have learnt. The reason I suggested that it automatically completes the name of tags properties and help new coders when I learnt some more I will switch back too it as it's meant for projects large ones
+11/13/16, 8:44 PM - steven newzealand: Ok
+11/13/16, 8:44 PM - steven newzealand: But I will try CSS. Thanks for mentioning it
+11/13/16, 8:45 PM - ‪+91 96083 85176‬: I assumed you have already notepad ++ I used it when I faces problem remembering languages exact names
+11/13/16, 8:45 PM - steven newzealand: I don't have notepad++
+I wrote it down with pen and paper
+11/13/16, 8:46 PM - ‪+91 96083 85176‬: Then better don't use it it will be extra headache of setting up installing
+11/13/16, 8:46 PM - steven newzealand: Lol okay
+11/13/16, 8:47 PM - Naveen DA: hey sandeep what you doing now
+11/13/16, 8:47 PM - ‪+91 96083 85176‬: You mean educational
+11/13/16, 8:47 PM - ‪+91 96083 85176‬: I am just a student
+11/13/16, 8:48 PM - ‪+91 97020 12264‬: W3schools (starting with which languages is html is good for beginner)
+11/13/16, 8:48 PM - ‪+91 96083 85176‬: I am doing 12th wondering I should do engineering after it or not
+11/13/16, 8:48 PM - Naveen DA: yes,  i am. learning this site
+11/13/16, 8:49 PM - Naveen DA: yes i am. complete engineering
+11/13/16, 8:50 PM - ‪+91 97020 12264‬: I am also doing  computer engineering. This year is my first year.
+11/13/16, 8:50 PM - Naveen DA: ha ha i am mechanical enginner 😇
+11/13/16, 8:50 PM - ‪+91 96083 85176‬: Oh that's good
+11/13/16, 8:51 PM - ‪+91 97020 12264‬: Oooo
+11/13/16, 8:51 PM - steven newzealand: Nice.
+11/13/16, 8:51 PM - ‪+91 96083 85176‬: Then coding is our passion I think
+11/13/16, 8:52 PM - ‪+880 1674-683631‬ joined using this group's invite link
+11/13/16, 8:52 PM - ‪+91 96083 85176‬: How old are you steven
+11/13/16, 8:52 PM - steven newzealand: No but seriously:
+Are we going to help each other in this chat or are we going to combine our knowledge into a website?
+11/13/16, 8:52 PM - steven newzealand: I'm currently 17 years old
+11/13/16, 8:52 PM - ‪+880 1674-683631‬: Yeah sure
+11/13/16, 8:52 PM - steven newzealand: I am
+11/13/16, 8:54 PM - ‪+880 1674-683631‬: I am a newbie but already make 8 websites. If u like I can help u
+11/13/16, 8:54 PM - steven newzealand: What is your specialism in coding?
+11/13/16, 8:54 PM - Naveen DA: then how say you newbie
+11/13/16, 8:54 PM - ‪+91 96083 85176‬: Please send the URLs of your website if you don't have problem
+11/13/16, 8:55 PM - ‪+880 1674-683631‬: I like to code with bootstrap
+11/13/16, 8:55 PM - ‪+880 1674-683631‬: I love it
+11/13/16, 8:56 PM - steven newzealand: Okay. I love to code with HTML, but I'm going to learn CSS soon
+11/13/16, 8:56 PM - ‪+91 96083 85176‬: That's cool me too have learnt bootstrap but I don't apply to so I have little practise
+11/13/16, 8:56 PM - Naveen DA: I am also. big fan of bootstrap
+11/13/16, 8:57 PM - ‪+880 1674-683631‬: Great
+11/13/16, 8:57 PM - ‪+91 96083 85176‬: 👍
+11/13/16, 9:03 PM - ‪+91 96083 85176‬: How did you created website we want to learn share to us some basic things
+11/13/16, 9:04 PM - ‪+91 97020 12264‬: Pls share it
+11/13/16, 9:06 PM - ‪+91 96083 85176‬: What things you learn aakash at cs btech tell me I am to decide I should or not
+11/13/16, 9:06 PM - Naveen DA: hey this is my personal site
+http://naveen.eu5.org
+11/13/16, 9:08 PM - ‪+91 96083 85176‬: Teach us Naveen how to create one I am willing to learn
+11/13/16, 9:08 PM - ‪+91 96083 85176‬: The website is nice styled
+11/13/16, 9:09 PM - ‪+91 96083 85176‬: Did it took money to host
+11/13/16, 9:09 PM - Naveen DA: yes i will teach you
+11/13/16, 9:09 PM - Naveen DA: wait i prepared my launch
+11/13/16, 9:10 PM - ‪+91 96083 85176‬: Ok leave messages or you can email me too here it will good everyone will learn ok 
+Do lunch 🍽🍹🍩
+11/13/16, 9:10 PM - ‪+91 97020 12264‬: First of all is be. Not btech and i am in first year. So till now i don't  have in cs subject.
+11/13/16, 9:11 PM - ‪+91 96083 85176‬: Oh so what things are learned there aakash
+11/13/16, 9:11 PM - steven newzealand: <Media omitted>
+11/13/16, 9:12 PM - ‪+91 96083 85176‬: .mytext
+11/13/16, 9:12 PM - steven newzealand: Thanks
+11/13/16, 9:12 PM - ‪+91 96083 85176‬: Ask how it happened
+11/13/16, 9:13 PM - ‪+91 96083 85176‬: It's query selector
+11/13/16, 9:13 PM - ‪+880 1674-683631‬ left
+11/13/16, 9:14 PM - ‪+91 96083 85176‬: To select elements just write the name and the properties in the { to id use hash and most preferably used . For class
+11/13/16, 9:14 PM - ‪+91 96083 85176‬: It's not for CSS we use it in other web technologies too
+11/13/16, 9:15 PM - steven newzealand: Okay thank you.
+
+But I think CSS isn't that easy tho.
+
+But I'll try
+11/13/16, 9:15 PM - ‪+91 96083 85176‬: No the selector is just the difficult concept you have to learn
+11/13/16, 9:16 PM - ‪+91 96083 85176‬: It's like pattern you begin it and then yourself write
+11/13/16, 9:16 PM - ‪+91 97020 12264‬: Currently  the term is ended. I have learned  mechanics, electronics subject. Applied mathematics,applied chemistry and applied physics
+11/13/16, 9:17 PM - ‪+91 96083 85176‬: Thanx aakash go on I have to know...
+11/13/16, 9:45 PM - Naveen DA: hey guys, anybody there?
+11/13/16, 9:46 PM - steven newzealand: I am. But I'm learning the CSS boxes
+11/13/16, 9:46 PM - Naveen DA: k k enjoy
+11/13/16, 9:46 PM - steven newzealand: Oh I mean the border Property
+11/13/16, 9:47 PM - ‪+967 775 280 180‬ joined using this group's invite link
+11/13/16, 9:49 PM - ‪+91 96083 85176‬: Will you teach us how to create own website please
+11/13/16, 9:49 PM - Naveen DA: yes
+11/13/16, 9:50 PM - ‪+91 96083 85176‬: You had lunch🍴
+11/13/16, 9:50 PM - steven newzealand: Ok. I just made mine with Jimdo, but okay.
+11/13/16, 9:50 PM - Naveen DA: sry its dinner
+11/13/16, 9:50 PM - ‪+91 96083 85176‬: Yes dinner... I am too indian
+11/13/16, 9:51 PM - Naveen DA: goto http://www.freewebhostingarea.com/ then click free sub domain
+11/13/16, 9:51 PM - ‪+91 96083 85176‬: Your website is very nice
+11/13/16, 9:52 PM - ‪+91 96083 85176‬: Thanks friend it's helpful
+11/13/16, 9:53 PM - ‪+91 96083 85176‬: Can you please teach us how a general website is made
+11/13/16, 9:53 PM - ‪+91 96083 85176‬: What's the process
+11/13/16, 9:53 PM - Naveen DA: frist domain name:  that is url
+11/13/16, 9:54 PM - ‪+91 96083 85176‬: People school make websites
+11/13/16, 9:54 PM - Naveen DA: sceond hosting:  where your files are in
+11/13/16, 9:55 PM - ‪+91 96083 85176‬: Ok
+11/13/16, 9:55 PM - Naveen DA: try to create free websites on http://www.freewebhostingarea.com/
+11/13/16, 9:56 PM - Naveen DA: it will teach you lot of things,  if you struggle any point than call me
+11/13/16, 9:56 PM - ‪+91 96083 85176‬: Thanks naveen
+11/13/16, 9:57 PM - ‪+91 96083 85176‬: 😴 good night friend thanks for spending precious time
+11/13/16, 9:57 PM - steven newzealand: Sleep well, man
+11/13/16, 9:59 PM - ‪+91 96083 85176‬: You have made website too
+11/13/16, 9:59 PM - steven newzealand: Yesh I did
+11/13/16, 9:59 PM - ‪+91 96083 85176‬: That's great
+11/13/16, 9:59 PM - steven newzealand: I'll send a link
+11/13/16, 10:00 PM - steven newzealand: http://teamtgn.jimdo.com
+11/13/16, 10:01 PM - ‪+91 96083 85176‬: What does team tgn means Steven it's good name but just confused
+11/13/16, 10:01 PM - ‪+91 96083 85176‬: Oh it has a YouTube embedded video too
+11/13/16, 10:02 PM - ‪+91 96083 85176‬: Oh I got it it's a team of YouTubers
+11/13/16, 10:02 PM - steven newzealand: It stands for my old name:
+The Gaming Nightmare
+
+We are now in a team of 6 people, so TGN stands for The Gaming Nightmares
+11/13/16, 10:02 PM - ‪+91 96083 85176‬: It's good website
+11/13/16, 10:02 PM - steven newzealand: Thank you
+11/13/16, 10:02 PM - Naveen DA: yes nice but try to create from starch
+11/13/16, 10:02 PM - ‪+91 96083 85176‬: It has got a chat too
+11/13/16, 10:03 PM - steven newzealand: Unfortunately, there is no code needed.
+11/13/16, 10:03 PM - ‪+91 96083 85176‬: Thanks Naveen da
+11/13/16, 10:03 PM - steven newzealand: It makes the code for you
+11/13/16, 10:03 PM - ‪+91 96083 85176‬: Are you from West Bengal
+11/13/16, 10:04 PM - Naveen DA: No Tamilnadu
+11/13/16, 10:04 PM - ‪+91 96083 85176‬: Ok shariya Nanu tamilnadu pokiraya
+11/13/16, 10:04 PM - ‪+91 96083 85176‬: Nanri
+11/13/16, 10:05 PM - Naveen DA: oh did you know tamil
+11/13/16, 10:05 PM - ‪+91 96083 85176‬: Nanny konchum konchum teruyuma auru moolam katrena
+11/13/16, 10:06 PM - Naveen DA: okay nice good night friends
+11/13/16, 10:06 PM - ‪+91 96083 85176‬: Tamilnadu mikavum nalla place
+11/13/16, 10:06 PM - ‪+91 96083 85176‬: Good night
+11/13/16, 10:10 PM - ‪+91 96083 85176‬: Oh here comes your idea of getting email on forms nice idea
+11/13/16, 10:10 PM - ‪+91 96083 85176‬: The chat box of your website
+11/13/16, 10:12 PM - ‪+91 96083 85176‬: Do you know Steven you can use anchor tag with maito attribute
+11/13/16, 10:12 PM - steven newzealand: I didn't know
+11/13/16, 10:12 PM - ‪+91 96083 85176‬: Google it it may help
+11/13/16, 10:13 PM - steven newzealand: Okay, will do. My dinner is almost ready😄
+11/13/16, 10:13 PM - ‪+91 96083 85176‬: Maito sends email to specified enailadress
+11/13/16, 10:13 PM - ‪+91 96083 85176‬: Oh it's in Netherland too ok go dinner😀
+11/13/16, 10:13 PM - steven newzealand: Is this the CSS language?
+11/13/16, 10:14 PM - ‪+91 96083 85176‬: No html pure html friend
+11/13/16, 10:14 PM - steven newzealand: I didn't know those tags and attributes
+11/13/16, 10:14 PM - ‪+91 96083 85176‬: A href is used same
+11/13/16, 10:14 PM - ‪+91 96083 85176‬: <a> tag
+11/13/16, 10:15 PM - ‪+91 96083 85176‬: you have to give mailto url
+11/13/16, 10:15 PM - ‪+91 96083 85176‬: I thought you were asking for form information
+11/13/16, 10:16 PM - ‪+91 96083 85176‬: You can't do that
+11/13/16, 10:16 PM - ‪+91 96083 85176‬: However it can acts as the chat box of the website
+11/13/16, 10:18 PM - ‪+91 96083 85176‬: You complete your dinner it's no problem
+11/13/16, 10:18 PM - steven newzealand: Okay. I did know the <a> tag, but I didn't know yhe mailto attribute
+11/13/16, 10:20 PM - ‪+91 96083 85176‬: They aren't used by modern website that was used to open Hotmail and send email to website own but today there are lots of programs
+11/13/16, 10:20 PM - steven newzealand: Ok
+11/13/16, 10:20 PM - ‪+91 96083 85176‬: You can use it
+11/13/16, 10:20 PM - steven newzealand: Okay thanks
+11/13/16, 10:21 PM - ‪+91 96083 85176‬: Ok see you bye😁
+11/13/16, 10:21 PM - steven newzealand: Bye
+11/13/16, 10:30 PM - ‪+55 27 99762-7395‬ joined using this group's invite link
+11/13/16, 10:30 PM - ‪+91 96083 85176‬: Hi 27997627395
+11/13/16, 10:32 PM - ‪+55 27 99762-7395‬: Hi
+11/13/16, 10:32 PM - ‪+55 27 99762-7395‬: My name os tacio
+11/13/16, 10:32 PM - ‪+55 27 99762-7395‬: Is*
+11/13/16, 10:32 PM - ‪+91 96083 85176‬: Hello os tacio
+11/13/16, 10:33 PM - ‪+91 96083 85176‬: Are you from rio
+11/13/16, 10:34 PM - ‪+55 27 99762-7395‬: Whats group focus
+11/13/16, 10:34 PM - ‪+91 96083 85176‬: It's sharing ideas of coding
+11/13/16, 10:35 PM - ‪+91 96083 85176‬: You start by sharing
+11/13/16, 10:35 PM - ‪+91 96083 85176‬: We will discuss
+11/13/16, 10:39 PM - ‪+91 98299 05512‬ joined using this group's invite link
+11/13/16, 10:40 PM - steven newzealand: Welcome
+11/13/16, 10:40 PM - ‪+91 96083 85176‬: Welcome
+11/13/16, 10:40 PM - ‪+91 98299 05512‬: Thanks :)
+11/13/16, 10:40 PM - ‪+91 96083 85176‬: Hi dhruv
+11/13/16, 10:41 PM - ‪+91 96083 85176‬: It's sharing ideas of coding
+11/13/16, 10:44 PM - ‪+91 98299 05512‬: Hmm thnkx for letting me in
+11/13/16, 10:44 PM - ‪+91 98299 05512‬: I just starts learning html and css
+11/13/16, 10:46 PM - ‪+91 96083 85176‬: That's good me to want to thank for letting me in in this group
+11/13/16, 10:48 PM - steven newzealand: Dhruv, I got the certificate for HTML, and I'm learning CSS now.
+
+And Lotan, I just finished dinner.
+11/13/16, 10:49 PM - ‪+55 27 99762-7395‬: bahia
+11/13/16, 10:49 PM - ‪+91 96083 85176‬: Congrats.
+11/13/16, 10:49 PM - ‪+91 98299 05512‬: Certificate from where bro ?
+11/13/16, 10:49 PM - ‪+91 96083 85176‬: But I recommend not finishing the course in one day it's cramming you will learn nothing
+11/13/16, 10:50 PM - steven newzealand: From Sololearn😂
+11/13/16, 10:50 PM - ‪+91 98299 05512‬: Lol i took 2 weeks for html and css now checking out javascript
+11/13/16, 10:50 PM - ‪+91 96083 85176‬: He meant certificate from sololearn
+11/13/16, 10:50 PM - ‪+91 98299 05512‬: I got certificate from sololearn and udemy both
+11/13/16, 10:50 PM - steven newzealand: Nice
+11/13/16, 10:50 PM - ‪+91 96083 85176‬: Oh that's great
+11/13/16, 10:51 PM - steven newzealand: You see, Lotan, compared to you guys I'm just a young noob
+11/13/16, 10:51 PM - ‪+91 96083 85176‬: I am just student dude
+11/13/16, 10:51 PM - ‪+91 98299 05512‬: No one is noob bro 🙃 you are just learning as we are
+11/13/16, 10:52 PM - steven newzealand: Your right. Sorry
+11/13/16, 10:52 PM - ‪+91 96083 85176‬: 👍
+11/13/16, 10:52 PM - ‪+55 27 99762-7395‬: I like understen english
+11/13/16, 10:52 PM - ‪+91 96083 85176‬: I am Sandeep Chatterjee
+11/13/16, 10:53 PM - steven newzealand: You don't understand English? Then this isn't a group for you, man.
+
+Sorry if I am wrong
+11/13/16, 10:53 PM - ‪+91 96083 85176‬: He understand English he can't speak he knows portguese
+11/13/16, 10:54 PM - steven newzealand: Okay. Sorry
+11/13/16, 10:54 PM - ‪+55 27 99762-7395‬: I want to learn English, I only speak Portuguese.
+11/13/16, 10:54 PM - ‪+91 96083 85176‬: Olà
+11/13/16, 10:55 PM - ‪+91 98299 05512‬: You are writing in english 😏 just keep it up here we dont need high english just enough to understand
+11/13/16, 10:55 PM - ‪+55 27 99762-7395‬: Ola
+11/13/16, 10:55 PM - ‪+91 96083 85176‬: Yeah we all are here from world wide
+11/13/16, 10:56 PM - ‪+55 27 99762-7395‬: Voce fala portugues?
+11/13/16, 10:56 PM - ‪+91 98299 05512‬: I'm from India
+11/13/16, 10:56 PM - steven newzealand: Just like Lotan is from India, and I'm from The Netherlands
+11/13/16, 10:56 PM - ‪+55 27 99762-7395‬: I brazil
+11/13/16, 10:56 PM - steven newzealand: Ah okay
+11/13/16, 10:58 PM - ‪+55 27 99762-7395‬: <Media omitted>
+11/13/16, 10:58 PM - ‪+91 96083 85176‬: nós somos de todo o mundo
+11/13/16, 10:58 PM - ‪+55 27 99762-7395‬: Huhu
+11/13/16, 10:58 PM - ‪+55 27 99762-7395‬: Portugues
+11/13/16, 10:59 PM - ‪+91 96083 85176‬: Não use a sua voz é difícil de entend
+11/13/16, 11:00 PM - ‪+55 27 99762-7395‬: Certo
+11/13/16, 11:00 PM - ‪+55 27 99762-7395‬: <Media omitted>
+11/13/16, 11:00 PM - ‪+91 96083 85176‬: Voce fàla english
+11/13/16, 11:01 PM - ‪+55 27 99762-7395‬: <Media omitted>
+11/13/16, 11:01 PM - ‪+55 27 99762-7395‬: <Media omitted>
+11/13/16, 11:01 PM - ‪+91 96083 85176‬: Não, eu só sei o básico  commons
+11/13/16, 11:02 PM - ‪+55 27 99762-7395‬: <Media omitted>
+11/13/16, 11:02 PM - ‪+91 98299 05512‬: I'm not getting even a single word your guyz are saying 😕
+11/13/16, 11:03 PM - ‪+91 96083 85176‬: Não use amigo de vozêe
+11/13/16, 11:03 PM - ‪+55 27 99762-7395‬: Ok
+11/13/16, 11:03 PM - ‪+55 27 99762-7395‬: Sory
+11/13/16, 11:03 PM - ‪+91 96083 85176‬: Dhruv mujhe bhi nahi yar
+11/13/16, 11:03 PM - steven newzealand: Me neither, dude😂❓
+11/13/16, 11:03 PM - Naveen DA: me also 🙋🏻‍♂
+11/13/16, 11:04 PM - ‪+91 98299 05512‬: Which language is this ?
+11/13/16, 11:04 PM - steven newzealand: It is Portuguese, I guess
+11/13/16, 11:04 PM - ‪+91 96083 85176‬: Portuguese
+11/13/16, 11:04 PM - ‪+55 27 99762-7395‬: Porzugues
+11/13/16, 11:04 PM - ‪+55 27 99762-7395‬: Portugues
+11/13/16, 11:04 PM - ‪+91 98299 05512‬: U jniw Portuguese?
+11/13/16, 11:04 PM - ‪+55 27 99762-7395‬: In brazil
+11/13/16, 11:04 PM - ‪+91 96083 85176‬: Ok start coding
+11/13/16, 11:04 PM - ‪+91 98299 05512‬: Know**
+11/13/16, 11:05 PM - ‪+91 96083 85176‬: Where are you at India dhruv
+11/13/16, 11:05 PM - ‪+55 27 99762-7395‬: You like know my languagem?
+11/13/16, 11:06 PM - steven newzealand: Okay, so, how did you put in the mailto attribute inside the <a> tag again?
+
+Is it the href or another way?
+11/13/16, 11:07 PM - ‪+91 96083 85176‬: <a maito:tgnteam@gmail.com> click here </a> that's it
+11/13/16, 11:07 PM - ‪+55 27 99762-7395‬: <?php    ?>
+11/13/16, 11:08 PM - ‪+91 96083 85176‬: You said you know little js
+11/13/16, 11:08 PM - ‪+91 96083 85176‬: Yes I know php
+11/13/16, 11:08 PM - ‪+55 27 99762-7395‬: I an student php
+11/13/16, 11:08 PM - ‪+91 96083 85176‬: Sometimes forget exact syntax
+11/13/16, 11:09 PM - steven newzealand: Okay thanks. But...
+
+I want to make sure the contact form sends me an email.
+
+I have got an bug in the code. When I fill in the form and press 'Send', it completely messes up the whole HTML code.
+11/13/16, 11:09 PM - ‪+91 96083 85176‬: You can use js after you learn it
+11/13/16, 11:10 PM - ‪+91 96083 85176‬: Yes it would without knowing your enailadress users
+11/13/16, 11:10 PM - steven newzealand: Ok
+11/13/16, 11:10 PM - ‪+91 96083 85176‬: But users still can know your email adress
+11/13/16, 11:10 PM - ‪+91 96083 85176‬: Share your thoughts about php
+11/13/16, 11:11 PM - ‪+55 27 99762-7395‬: I put form php and html worked fine
+11/13/16, 11:11 PM - ‪+91 96083 85176‬: Steven this man can help us
+11/13/16, 11:11 PM - ‪+55 27 99762-7395‬: This function options is of in my form
+11/13/16, 11:11 PM - steven newzealand: Yeah, but it's a bug in the code.
+
+I'll send the HTML code, if that is okay with you
+11/13/16, 11:12 PM - ‪+55 27 99762-7395‬: 2 page  our code
+11/13/16, 11:12 PM - ‪+55 27 99762-7395‬: Html  in one ,php 2
+11/13/16, 11:12 PM - steven newzealand: I don't get that
+11/13/16, 11:12 PM - ‪+91 96083 85176‬: You continue with some other idea you can do it after you learn languages
+11/13/16, 11:13 PM - ‪+91 96083 85176‬: This man is learning php he can help you
+11/13/16, 11:13 PM - steven newzealand: Okay nice.
+11/13/16, 11:13 PM - ‪+91 96083 85176‬: In your code
+11/13/16, 11:13 PM - steven newzealand: I'll send the code.
+11/13/16, 11:13 PM - ‪+91 96083 85176‬: You can learn css
+11/13/16, 11:14 PM - steven newzealand: CSS is pretty easy tho
+11/13/16, 11:14 PM - ‪+55 27 99762-7395‬: I like programing
+11/13/16, 11:14 PM - ‪+91 96083 85176‬: This group is awesome can't belive created today
+11/13/16, 11:14 PM - ‪+55 27 99762-7395‬: I like unders and creat program
+11/13/16, 11:14 PM - ‪+91 96083 85176‬: Me too
+11/13/16, 11:15 PM - steven newzealand: Soooooo. Any1 got an idea for an HTML code?
+11/13/16, 11:16 PM - steven newzealand: Just silence after I send that😂👍
+11/13/16, 11:17 PM - ‪+55 27 99762-7395‬: Whats is age of your?
+11/13/16, 11:17 PM - steven newzealand: I'm currently 17 years old
+11/13/16, 11:17 PM - Naveen DA: good night guys we will see tomorrow 👋🏻
+11/13/16, 11:17 PM - ‪+91 96083 85176‬: Your English is enough to be understood
+Keep it up ..
+11/13/16, 11:18 PM - ‪+55 27 99762-7395‬: 14:48 pm here
+11/13/16, 11:18 PM - ‪+91 96083 85176‬: Me too feeling sleepy it's too night in india
+11/13/16, 11:18 PM - steven newzealand: Sleep well guys.
+
+I'm going to do homework now. Bye
+11/13/16, 11:18 PM - ‪+91 96083 85176‬: Are you at rio
+11/13/16, 11:19 PM - ‪+55 27 99762-7395‬: Not
+11/13/16, 11:19 PM - ‪+55 27 99762-7395‬: Here os Bahia
+11/13/16, 11:19 PM - ‪+55 27 99762-7395‬: Porto swguro
+11/13/16, 11:19 PM - ‪+91 96083 85176‬: Ok
+11/13/16, 11:19 PM - ‪+55 27 99762-7395‬: Seguro
+11/13/16, 11:19 PM - ‪+55 27 99762-7395‬: Salvador,itacare
+11/13/16, 11:20 PM - ‪+91 96083 85176‬: I mistakenly touched the call button
+11/13/16, 11:20 PM - ‪+91 96083 85176‬: I am Sandeep Chatterjee India
+11/13/16, 11:20 PM - ‪+91 96083 85176‬: You can check my Solo learn account
+11/13/16, 11:21 PM - ‪+91 96083 85176‬: Eu sou Sandeep Chatterjee da india
+11/13/16, 11:27 PM - ‪+55 27 99762-7395‬: You sleep?
+11/13/16, 11:27 PM - ‪+91 96083 85176‬: Yes
+11/13/16, 11:29 PM - ‪+55 27 99762-7395‬: Clock?
+11/13/16, 11:30 PM - ‪+55 27 99762-7395‬: Time ?
+11/13/16, 11:31 PM - steven newzealand: Tacio, Lotan is trying to sleep. Please let him, you can google the time in India
+11/13/16, 11:40 PM - ‪+91 98299 05512‬: Jaipur(Rajasthan)
+11/13/16, 11:41 PM - ‪+91 98299 05512‬: <a href="mailto: example@gmail.com" target="_blank">Mail ME</a>
+11/13/16, 11:41 PM - steven newzealand: Thank you
+11/13/16, 11:44 PM - ‪+91 98299 05512‬: U wanna increase your html ability i prefer to visit simple websites like school , college and institute ones ans try to copy their designs 
+
+
+Don't looks at their codes untill you really need it and try to build from scratch
+11/13/16, 11:44 PM - steven newzealand: Okay
+11/13/16, 11:45 PM - steven newzealand: But that's not what I meant.
+
+I meant, I want to make a HTML code for someone so badly, but I don't have any idea for an design
+11/13/16, 11:46 PM - steven newzealand: Of an webpage
+11/13/16, 11:46 PM - ‪+91 98299 05512‬: On what topic you want to make webpage
+11/13/16, 11:46 PM - steven newzealand: Like, an business page, or something fun
+11/14/16, 7:38 AM - ‪+1 (705) 828-3640‬ joined using this group's invite link
+11/13/16, 11:51 PM - ‪+91 98299 05512‬: <Media omitted>
+11/13/16, 11:51 PM - ‪+55 27 99762-7395‬: Notepad ++
+11/13/16, 11:53 PM - steven newzealand: Okay, I'll try. But it's gonna be a challenge, so I need some time
+11/13/16, 11:53 PM - ‪+91 98299 05512‬: Haha take your time :)
+11/13/16, 11:53 PM - ‪+91 98299 05512‬: ?
+11/14/16, 7:38 AM - ‪+91 90417 71234‬ joined using this group's invite link
+11/14/16, 7:38 AM - ‪+49 176 56993211‬ joined using this group's invite link
+11/14/16, 7:38 AM - ‪+49 176 56993211‬ left
+11/14/16, 7:38 AM - ‪+91 90417 71234‬ left
+11/14/16, 7:38 AM - ‪+49 176 53862782‬ joined using this group's invite link
+11/14/16, 7:38 AM - ‪+49 176 53862782‬ left
+11/14/16, 7:38 AM - ‪+254 716 539846‬ joined using this group's invite link
+11/13/16, 11:54 PM - steven newzealand: I think he means that you can make that with notepad++
+11/14/16, 7:38 AM - ‪+61 410 060 213‬ left
+11/14/16, 7:38 AM - ‪+91 89042 87520‬ joined using this group's invite link
+11/14/16, 7:38 AM - ‪+91 96637 47783‬ joined using this group's invite link
+11/14/16, 7:38 AM - ‪+91 96637 47783‬ left
+11/14/16, 12:00 AM - ‪+91 98299 05512‬: I usually use brackets
+11/14/16, 7:38 AM - ‪+1 (202) 780-9197‬ joined using this group's invite link
+11/14/16, 12:01 AM - steven newzealand: That's also possible
+11/14/16, 7:38 AM - ‪+1 (705) 828-3640‬ left
+11/14/16, 7:38 AM - ‪+1 (202) 780-9197‬ left
+11/14/16, 12:01 AM - ‪+91 98299 05512‬: But i used just notepad at time of starting
+11/14/16, 12:01 AM - ‪+91 98299 05512‬: 😆
+11/14/16, 7:38 AM - ‪+91 89785 99323‬ joined using this group's invite link
+11/14/16, 7:38 AM - ‪+91 89785 99323‬ left
+11/14/16, 12:01 AM - steven newzealand: 😂👍
+11/14/16, 12:04 AM - ‪+55 27 99762-7395‬: Notepad plu plus = notepad
+11/14/16, 12:07 AM - ‪+91 98299 05512‬: Any other languages tour guyz lerni g except html and css ?
+11/14/16, 12:08 AM - steven newzealand: You also have php, JavaScript and many more
+11/14/16, 12:15 AM - ‪+49 176 56993211‬: Oh One German
+11/14/16, 12:16 AM - steven newzealand: Welcome, Simon
+11/14/16, 12:34 AM - ‪+55 27 99762-7395‬: Oi pessoas
+11/14/16, 12:59 AM - ‪+254 716 539846‬: Thank you for such an idea
+11/14/16, 1:05 AM - ‪+55 27 99762-7395‬: I?
+11/14/16, 1:06 AM - ‪+49 1575 2196506‬: I am german too.
+11/14/16, 1:08 AM - ‪+55 27 99762-7395‬: German os mame?
+11/14/16, 1:08 AM - ‪+55 27 99762-7395‬: Here in brasil german= germano for man ,germana for woman
+11/14/16, 1:09 AM - ‪+49 1575 2196506‬: I am german and germano.
+11/14/16, 1:09 AM - ‪+55 27 99762-7395‬: Hooo
+11/14/16, 1:10 AM - ‪+55 27 99762-7395‬: Beatifull
+11/14/16, 1:10 AM - ‪+49 1575 2196506‬: Why?
+11/14/16, 1:10 AM - ‪+55 27 99762-7395‬: I am brazilan
+11/14/16, 1:11 AM - ‪+49 1575 2196506‬: I know
+11/14/16, 1:18 AM - ‪+254 716 539846‬: Representing Africa
+11/14/16, 1:19 AM - ‪+55 27 99762-7395‬: África?
+11/14/16, 1:22 AM - ‪+254 716 539846‬: Why not..
+11/14/16, 1:28 AM - ‪+55 27 99762-7395‬: You know português?
+11/14/16, 1:29 AM - ‪+254 716 539846‬: No just little french...
+11/14/16, 1:45 AM - ‪+55 27 99762-7395‬: África know francês?
+11/14/16, 1:46 AM - ‪+254 716 539846‬: I only reside in Africa..
+11/14/16, 1:48 AM - ‪+55 27 99762-7395‬: You not african?
+11/14/16, 1:48 AM - steven newzealand: Hey, I'm back
+11/14/16, 1:49 AM - ‪+55 27 99762-7395‬: Welcome to Back
+11/14/16, 1:50 AM - steven newzealand: Thank you. I was trying to do that 'basic design' of Dhruv, and I can't do it😂
+11/14/16, 1:57 AM - ‪+91 98299 05512‬: any help needed :) ?
+11/14/16, 1:58 AM - steven newzealand: Yes pls
+11/14/16, 1:59 AM - ‪+91 98299 05512‬: OK first say you started HTML5 or still learning html
+11/14/16, 1:59 AM - steven newzealand: I'm still learning HTML. I don't kniw everything
+11/14/16, 2:00 AM - ‪+91 98299 05512‬: reached at frames yet ?
+11/14/16, 2:00 AM - steven newzealand: Eeeeh nope😂😂😂
+11/14/16, 2:01 AM - ‪+91 98299 05512‬: thn it might difficult right now
+11/14/16, 2:01 AM - ‪+91 98299 05512‬: leave frames as they are outdated and not supported in HTML5 tho
+11/14/16, 2:02 AM - steven newzealand: Ok
+11/14/16, 2:02 AM - steven newzealand: I need to go. See you around
+11/14/16, 2:17 AM - ‪+91 89042 87520‬: Hi guys i m new here can anyone tell me the main focus of this grp...thanks in advance
+11/14/16, 2:19 AM - ‪+49 1575 2196506‬: Helping each other out with coding and maybe to combine our knowledge and create a website.
+11/14/16, 2:20 AM - ‪+91 89042 87520‬: Ohh thanks
+11/14/16, 2:20 AM - ‪+91 89042 87520‬: Actually i am work on html css as a fresher on any way i stuck can i asked ques here
+11/14/16, 2:21 AM - ‪+91 89042 87520‬: Working*
+11/14/16, 2:24 AM - ‪+91 98299 05512‬: Sure ✌🏻
+11/14/16, 2:26 AM - ‪+91 89042 87520‬: Tq
+11/14/16, 4:03 AM - ‪+55 27 99762-7395‬: Group girls?
+11/14/16, 4:03 AM - ‪+1 (202) 780-9197‬: Hi
+11/14/16, 4:03 AM - ‪+55 27 99762-7395‬: Here all is man
+11/14/16, 4:03 AM - ‪+1 (202) 780-9197‬: Ok so I am not allowed?
+11/14/16, 4:05 AM - ‪+55 27 99762-7395‬: You be allowed
+11/14/16, 4:05 AM - ‪+1 (202) 780-9197‬: Gracias
+11/14/16, 4:05 AM - ‪+55 27 99762-7395‬: Italiano
+11/14/16, 4:06 AM - ‪+55 27 99762-7395‬: You is man ou girl?
+11/14/16, 4:06 AM - ‪+1 (202) 780-9197‬: <Media omitted>
+11/14/16, 4:06 AM - ‪+1 (202) 780-9197‬: What do you do in this group?
+11/14/16, 4:07 AM - ‪+55 27 99762-7395‬: I like know english languagem
+11/14/16, 4:07 AM - ‪+1 (202) 780-9197‬: What language do you speak?
+11/14/16, 4:07 AM - ‪+55 27 99762-7395‬: Português
+11/14/16, 4:08 AM - ‪+1 (202) 780-9197‬: Ah como va voce
+11/14/16, 4:08 AM - ‪+55 27 99762-7395‬: <Media omitted>
+11/14/16, 4:12 AM - ‪+55 27 99762-7395‬: Sory,i like new friend American our otther language
+11/14/16, 4:16 AM - ‪+49 1575 2196506‬: What do you mean by that?
+11/14/16, 4:17 AM - ‪+55 27 99762-7395‬: News friends
+11/14/16, 4:17 AM - ‪+1 (202) 780-9197‬: I just want to learn to code is that what you all do here?
+11/14/16, 4:19 AM - ‪+55 27 99762-7395‬: Code
+11/14/16, 4:19 AM - ‪+55 27 99762-7395‬: Php
+11/14/16, 4:19 AM - ‪+55 27 99762-7395‬: Html
+11/14/16, 4:19 AM - ‪+1 (202) 780-9197‬: Yes
+11/14/16, 4:19 AM - ‪+55 27 99762-7395‬: I like learn all code an speak english
+11/14/16, 4:19 AM - ‪+1 (202) 780-9197‬: Cool thanks.
+11/14/16, 4:31 AM - ‪+55 27 99762-7395‬: 😂
+11/14/16, 4:41 AM - ‪+55 27 99762-7395‬: Add me in outher groups
+11/14/16, 9:13 AM - ‪+91 96083 85176‬: That's correct target="_blank" does not close the current tab and hence even better
+11/14/16, 6:46 PM - ‪+7 937 492-96-39‬ joined using this group's invite link
+11/14/16, 9:13 AM - ‪+91 96083 85176‬: Good morning friends
+11/14/16, 6:46 PM - ‪+62 819-0633-8484‬ joined using this group's invite link
+11/14/16, 6:46 PM - ‪+91 98908 14462‬ joined using this group's invite link
+11/14/16, 9:15 AM - ‪+91 96083 85176‬: Nice to meet you dhruv
+11/14/16, 9:16 AM - ‪+91 96083 85176‬: Yeh I agree they do not have rich ui and scripts so easier to learn I use it
+11/14/16, 6:46 PM - ‪+1 (916) 471-4290‬ joined using this group's invite link
+11/14/16, 6:46 PM - ‪+62 852-5660-0801‬ joined using this group's invite link
+11/14/16, 6:46 PM - ‪+254 716 539846‬ left
+11/14/16, 9:19 AM - ‪+91 96083 85176‬: Hola Herzlich wilkomenn simon
+11/14/16, 9:24 AM - ‪+91 96083 85176‬: I know variety of languages but I am specialised at web development specially js and I know Java and c++ too you can check out my solo learn profile. By name of Sandeep Chatterjee.
+11/14/16, 9:25 AM - ‪+91 96083 85176‬: I was saying the same maito anchor idea
+11/14/16, 9:25 AM - ‪+91 97020 12264‬: Currently  what are u studying Sandeep Chatterjee.
+11/14/16, 9:25 AM - ‪+91 96083 85176‬: I am doing 12th
+11/14/16, 9:26 AM - ‪+91 97020 12264‬: From where
+11/14/16, 9:26 AM - ‪+91 96083 85176‬: Thanks for sharing what is studies in engineering
+11/14/16, 6:46 PM - ‪+91 89042 87520‬ left
+11/14/16, 9:27 AM - ‪+91 96083 85176‬: From India jharkhand
+11/14/16, 9:27 AM - ‪+91 96083 85176‬: You ?
+11/14/16, 9:27 AM - ‪+91 97020 12264‬: Yeeeh i am from india. Mumbai
+11/14/16, 9:27 AM - ‪+91 97020 12264‬: First year student of Mumbai  university
+11/14/16, 9:28 AM - ‪+91 96083 85176‬: Where is your home town
+11/14/16, 9:28 AM - ‪+91 97020 12264‬: Up Allahabad
+11/14/16, 9:28 AM - ‪+91 96083 85176‬: Oh that's great
+11/14/16, 9:28 AM - ‪+91 96083 85176‬: How far is Banaras from allahabad
+11/14/16, 9:29 AM - ‪+91 97020 12264‬: Just 3 to 4 hours journey
+11/14/16, 9:30 AM - ‪+91 96083 85176‬: Oh I asked you about btech because I was thinking I should pursue it for cs or not
+11/14/16, 9:31 AM - ‪+91 96083 85176‬: We share ideas about coding
+11/14/16, 6:46 PM - ‪+91 97020 20991‬ joined using this group's invite link
+11/14/16, 6:46 PM - ‪+91 97020 20991‬ left
+11/14/16, 9:32 AM - ‪+91 97020 12264‬: Actually  i not able to suggest you but if u love coding then IT is better than cs. If you make future in hardware as well as software  then u go for cs
+11/14/16, 9:32 AM - ‪+91 96083 85176‬: Oh I missed a lot while sleeping
+11/14/16, 9:33 AM - ‪+91 96083 85176‬: Thanks
+11/14/16, 9:33 AM - ‪+91 96083 85176‬: Will I learning coding in cs too
+11/14/16, 6:46 PM - ‪+91 76929 09306‬ joined using this group's invite link
+11/14/16, 6:46 PM - ‪+91 76929 09306‬ left
+11/14/16, 9:35 AM - ‪+91 97020 12264‬: Yes defiantly  but they include hardware  part also near about 25%
+11/14/16, 10:14 AM - ‪+91 96083 85176‬: You from dc
+11/14/16, 10:14 AM - ‪+91 96083 85176‬: The group has got over 200 chats
+11/14/16, 10:15 AM - ‪+91 96083 85176‬: Ao6po noxarobatb
+11/14/16, 10:17 AM - ‪+91 96083 85176‬: Welcome
+11/14/16, 10:18 AM - ‪+91 96083 85176‬: Good news for Indian Banks asked to increase exchange limit from Rs 4000 to Rs 4500; ATM withdrawal limit raised to Rs 2,500
+http://timesofindia.indiatimes.com/india/Banks-asked-to-increase-exchange-limit-from-Rs-4000-to-Rs-4500-ATM-withdrawal-limit-raised-to-Rs-2500/articleshow/55406872.cms
+
+Click here to get DON : https://goo.gl/LCBgZM
+11/14/16, 10:19 AM - ‪+91 96083 85176‬: Eto koaepbl rpynna
+11/14/16, 10:36 AM - ‪+91 96083 85176‬: Hodi
+11/14/16, 10:40 AM - ‪+91 96083 85176‬: Good Morning Friends
+11/14/16, 11:04 AM - ‪+91 98299 05512‬: Yep from sem2, in sem1 all branches are almost same
+11/14/16, 11:04 AM - ‪+91 96083 85176‬: Thank yoi
+11/14/16, 11:05 AM - ‪+91 96083 85176‬: Are you too btech student
+11/14/16, 11:12 AM - ‪+91 98299 05512‬: Na
+11/14/16, 11:12 AM - ‪+91 98299 05512‬: Im bca first yr student
+11/14/16, 11:12 AM - ‪+91 96083 85176‬: Ok
+11/14/16, 11:12 AM - ‪+91 96083 85176‬: Do you study at rajasthan
+11/14/16, 11:13 AM - ‪+91 96083 85176‬: Thanks a lot for helping
+11/14/16, 11:14 AM - ‪+91 98299 05512‬: Yea
+11/14/16, 11:15 AM - ‪+91 96083 85176‬: Where are you from then dhruv you have good coding knowledge it's seen
+11/14/16, 11:28 AM - ‪+91 98299 05512‬: Lol no, im pursuing BCA(Bachelor of Computer Application) first yr from Jaipur(raj)(ind) 
+
+And i just started learning languages its just less thn 3weeks since i start learning html
+11/14/16, 11:29 AM - ‪+91 98299 05512‬: I feel like html and css is the simplest language i ever learn ✌🏻
+11/14/16, 11:44 AM - steven newzealand: Good morning, friends. I see that I missed a lot.
+11/14/16, 12:33 PM - ‪+7 937 492-96-39‬: Hello guys
+11/14/16, 12:34 PM - steven newzealand: Hey
+11/14/16, 12:57 PM - ‪+91 96083 85176‬: Hi good morning
+11/14/16, 12:58 PM - ‪+91 89042 87520‬: gd mrngs guys
+11/14/16, 12:58 PM - ‪+91 96083 85176‬: Welcome to this coding grouo
+11/14/16, 12:59 PM - ‪+91 89042 87520‬: thnks
+11/14/16, 12:59 PM - ‪+91 96083 85176‬: You joined this we were sleeping then
+11/14/16, 1:00 PM - ‪+91 96083 85176‬: Share your ideas and discuss
+11/14/16, 1:09 PM - ‪+7 937 492-96-39‬: I am newbie to programming, I'm interested to talk to people who know how to program(sry  for google translate)
+11/14/16, 1:10 PM - steven newzealand: I'm a newbie to, don't worry
+11/14/16, 1:32 PM - ‪+91 98299 05512‬: Seems like all are newbie here ✌🏻
+11/14/16, 2:34 PM - steven newzealand: Yeah
+11/14/16, 2:34 PM - steven newzealand: 👍
+11/14/16, 2:57 PM - ‪+1 (916) 471-4290‬: Hello Naveen.
+11/14/16, 2:57 PM - ‪+1 (916) 471-4290‬: What is this group all about ? and which website ideas are discussed >?  in a term of programming or design ?
+11/14/16, 2:57 PM - ‪+1 (916) 471-4290‬: Do u have a short description of this group ?
+11/14/16, 3:00 PM - ‪+91 98299 05512‬: As by group title this group is all about web designing
+11/14/16, 3:01 PM - ‪+91 98299 05512‬: All things related to that allowed here
+11/14/16, 3:02 PM - steven newzealand: You can share your web design ideas in this group
+11/14/16, 3:03 PM - ‪+91 98299 05512‬: Guyz
+11/14/16, 3:03 PM - steven newzealand: Yes?
+11/14/16, 3:04 PM - ‪+91 98299 05512‬: I build one website from scratch for one friend
+11/14/16, 3:04 PM - steven newzealand: Okay
+11/14/16, 3:04 PM - steven newzealand: Nice
+11/14/16, 3:04 PM - ‪+91 98299 05512‬: Please chk it out and give suggestions what to do more
+11/14/16, 3:04 PM - ‪+91 98299 05512‬: Working perfectly only on pc
+11/14/16, 3:04 PM - ‪+91 98299 05512‬: Not responsive
+11/14/16, 3:04 PM - steven newzealand: Okay, can you send the URL
+11/14/16, 3:05 PM - ‪+91 98299 05512‬: bit.ly/dsk197test
+11/14/16, 3:05 PM - ‪+91 98299 05512‬: Its just for clg project no other use
+11/14/16, 3:06 PM - steven newzealand: It's very nice, but I should remove the pop ups, and put the information inside the website somewhere.
+11/14/16, 3:07 PM - ‪+7 937 492-96-39‬: Nice
+11/14/16, 3:07 PM - ‪+91 98299 05512‬: Like on top on main page
+11/14/16, 3:08 PM - ‪+91 98299 05512‬: With some background so it visible perfectly ?
+11/14/16, 3:08 PM - steven newzealand: Yea
+11/14/16, 3:10 PM - ‪+91 98299 05512‬: Ok ✌🏻 thanks
+11/14/16, 3:11 PM - steven newzealand: No problem. 
+
+The reason why I said it is because you probably want to avoid annoyance at the visitors.
+11/14/16, 3:25 PM - ‪+91 89042 87520‬: Hiii Guys i use below php code for form which work on gmail but didn't work on webmail can anyone help me
+11/14/16, 3:25 PM - ‪+91 89042 87520‬: <?php
+ 
+if(isset($_POST['email'])) {
+ 
+     
+ 
+    // EDIT THE 2 LINES BELOW AS REQUIRED
+ 
+    $email_to = "z.imran97@gmail.com";
+ 
+    $email_subject = "Enquiry Form";
+ 
+     
+ 
+     
+ 
+    function died($error) {
+ 
+        // your error code can go here
+ 
+        echo "We are very sorry, but there were error(s) found with the form you submitted. ";
+ 
+        echo "These errors appear below.<br /><br />";
+ 
+        echo $error."<br /><br />";
+ 
+        echo "Please go back and fix these errors.<br /><br />";
+ 
+        die();
+ 
+    }
+ 
+     
+ 
+    // validation expected data exists
+ 
+    if(!isset($_POST['fname']) ||
+ 
+        !isset($_POST['phone']) ||
+	
+		!isset($_POST['email']) ||
+ 
+        !isset($_POST['message'])) {
+ 
+        died('We are sorry, but there appears to be a problem with the form you submitted.');       
+ 
+    }
+ 
+     
+ 
+    $first_name = $_POST['fname']; // required
+ 
+    $telephone = $_POST['phone']; // not required
+    
+	$email_from = $_POST['email']; // required
+ 
+    $comments = $_POST['message']; // required
+ 
+     
+ 
+    $error_message = "";
+ 
+    $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
+ 
+  if(!preg_match($email_exp,$email_from)) {
+ 
+    $error_message .= 'The Email Address you entered does not appear to be valid.<br />';
+ 
+  }
+ 
+    $string_exp = "/^[A-Za-z .'-]+$/";
+ 
+  if(!preg_match($string_exp,$first_name)) {
+ 
+    $error_message .= 'The First Name you entered does not appear to be valid.<br />';
+ 
+  }
+ 
+  
+ 
+  if(strlen($comments) < 2) {
+ 
+    $error_message .= 'The Comments you entered do not appear to be valid.<br />';
+ 
+  }
+ 
+  if(strlen($error_message) > 0) {
+ 
+    died($error_message);
+ 
+  }
+ 
+    $email_message = "Form details below.\n\n";
+ 
+     
+ 
+    function clean_string($string) {
+ 
+      $bad = array("content-type","bcc:","to:","cc:","href");
+ 
+      return str_replace($bad,"",$string);
+ 
+    }
+ 
+     
+ 
+    $email_message .= "Name  : ".clean_string($first_name)."\n";
+ 
+    $email_message .= "Phone : ".clean_string($telephone)."\n";
+	
+    $email_message .= "Email : ".clean_string($email_from)."\n";
+ 
+    $email_message .= "Message : ".clean_string($comments)."\n";
+ 
+     
+ 
+     
+ 
+// create email headers
+ 
+$headers = 'From: '.$email_from."\r\n".
+ 
+'Reply-To: '.$email_from."\r\n" .
+ 
+'X-Mailer: PHP/' . phpversion();
+ 
+mail($email_to, $email_subject, $email_message, $headers); 
+echo "<h1>Thank you for contacting us. We will be in touch with you very soon.</h1>";
+ 
+?>
+ <script>
+    setTimeout(function(){
+       window.location='contact.html';
+    }, 3000);
+	</script>
+ 
+ 
+<!-- include your own success html here -->
+ 
+
+ 
+
+ 
+ 
+ 
+<?php
+ 
+}
+ 
+?>
+11/14/16, 3:26 PM - ‪+55 27 99762-7395‬: Hooo
+11/14/16, 3:26 PM - ‪+55 27 99762-7395‬: It 'is full script
+11/14/16, 3:26 PM - steven newzealand: Okay, any1 with PHP knowledge?
+11/14/16, 3:27 PM - ‪+91 98299 05512‬: i don't know about php but i think it won't work on local pages to work you need to make it online :/
+11/14/16, 3:27 PM - ‪+91 89042 87520‬: it is on server bro
+11/14/16, 3:27 PM - ‪+91 98299 05512‬: ohh
+11/14/16, 3:28 PM - ‪+91 89042 87520‬: on gmail mail id its work
+11/14/16, 3:28 PM - ‪+91 89042 87520‬: but didn't work on webmail
+11/14/16, 3:29 PM - steven newzealand: Probably because Webmail isn't supported
+11/14/16, 3:30 PM - ‪+91 89042 87520‬: i dont think soo
+11/14/16, 3:30 PM - ‪+91 89042 87520‬: maybe
+11/14/16, 3:31 PM - steven newzealand: If the Gmail works and Webmail doesn't work, then Webmail isn't supported
+11/14/16, 3:34 PM - ‪+91 89042 87520‬: may be sir
+11/14/16, 3:54 PM - ‪+91 98299 05512‬: The Style definition rule consists of selector, property and: _____ ?
+11/14/16, 3:55 PM - ‪+91 98299 05512‬: class ?
+11/14/16, 3:57 PM - ‪+91 89042 87520‬: may be i dont know exactly
+11/14/16, 4:08 PM - ‪+91 96083 85176‬: Value
+11/14/16, 4:08 PM - ‪+91 98299 05512‬: Thanks :)
+11/14/16, 4:09 PM - ‪+91 89042 87520‬: hmm
+11/14/16, 4:43 PM - ‪+91 96083 85176‬: Ao6po noxarobatb
+11/14/16, 4:45 PM - ‪+7 937 492-96-39‬: Dobro pozhalovat? 😁
+11/14/16, 4:47 PM - ‪+55 27 99762-7395‬: Russian?
+11/14/16, 4:47 PM - ‪+7 937 492-96-39‬: Yes
+11/14/16, 4:48 PM - ‪+7 937 492-96-39‬: Hated?
+11/14/16, 4:48 PM - ‪+91 96083 85176‬: Menya zovut Sandeep Chatterjee
+11/14/16, 4:49 PM - ‪+91 96083 85176‬: Not hated liked lol😀
+11/14/16, 4:49 PM - ‪+7 937 492-96-39‬: My name is Vlad 😁
+11/14/16, 4:50 PM - ‪+7 937 492-96-39‬: Most people hate  Russian😅
+11/14/16, 4:50 PM - ‪+91 96083 85176‬: Priyatno poznakomitsya
+11/14/16, 4:50 PM - ‪+7 937 492-96-39‬: Vzaimno
+11/14/16, 4:50 PM - ‪+7 937 492-96-39‬: You speak rus?
+11/14/16, 4:51 PM - ‪+91 96083 85176‬: Actually Russian has Sanskrit words priya ratna is a Sanskrit word
+11/14/16, 4:51 PM - ‪+91 96083 85176‬: Da
+11/14/16, 4:51 PM - ‪+91 96083 85176‬: Nemnogo
+11/14/16, 4:52 PM - ‪+91 96083 85176‬: Eto coders group
+11/14/16, 4:53 PM - ‪+91 96083 85176‬: We discuss about codes here
+11/14/16, 4:53 PM - ‪+91 96083 85176‬: Net Russian I am indian
+11/14/16, 4:53 PM - ‪+7 937 492-96-39‬: Ya hochu naychitsa pisat programm
+11/14/16, 4:53 PM - ‪+91 96083 85176‬: I know a little russian
+11/14/16, 4:53 PM - ‪+91 96083 85176‬: Da
+11/14/16, 4:55 PM - ‪+7 937 492-96-39‬: You want me to quit?
+11/14/16, 4:55 PM - ‪+91 96083 85176‬: Net
+11/14/16, 4:55 PM - ‪+91 96083 85176‬: No I dont
+11/14/16, 4:55 PM - ‪+91 96083 85176‬: I liked you
+11/14/16, 4:56 PM - ‪+7 937 492-96-39‬: Can you help me?
+11/14/16, 4:56 PM - ‪+91 96083 85176‬: Da
+11/14/16, 4:57 PM - ‪+91 96083 85176‬: Vy mozhete proverit moy solo learn profile
+11/14/16, 4:57 PM - ‪+7 937 492-96-39‬: From what programming language should I start?
+11/14/16, 4:57 PM - ‪+91 96083 85176‬: No imeni Sandeep Chatterjee
+11/14/16, 4:57 PM - ‪+91 96083 85176‬: Any one you think good
+11/14/16, 4:59 PM - ‪+7 937 492-96-39‬: Wait
+11/14/16, 4:59 PM - ‪+91 96083 85176‬: Ok
+11/14/16, 5:01 PM - steven newzealand: I don't hate Russian, I love them! I want to learn their language as well.
+
+I only know swear words tho😂
+11/14/16, 5:01 PM - ‪+91 96083 85176‬: Kekys
+11/14/16, 5:01 PM - ‪+91 96083 85176‬: Kekeya
+11/14/16, 5:02 PM - ‪+7 937 492-96-39‬: Syka and blyat? 😅
+11/14/16, 5:02 PM - ‪+91 96083 85176‬: I didn't got it is that programming language
+11/14/16, 5:03 PM - ‪+7 937 492-96-39‬: Sorry
+11/14/16, 5:03 PM - ‪+91 96083 85176‬: Oh prosti
+11/14/16, 5:04 PM - ‪+91 96083 85176‬: Where can I help
+11/14/16, 5:04 PM - steven newzealand: Like syka and blyat
+11/14/16, 5:04 PM - steven newzealand: Yes
+11/14/16, 5:06 PM - ‪+7 937 492-96-39‬: What language is best to start?(programming language)
+11/14/16, 5:06 PM - ‪+91 96083 85176‬: Jhakkas website hai
+11/14/16, 5:07 PM - ‪+91 96083 85176‬: Depends on your interest if want a quick start then js
+11/14/16, 5:07 PM - steven newzealand: I started at HTML, and right now I'm learning CSS
+11/14/16, 5:07 PM - ‪+91 96083 85176‬: It has no headache like data type parsing compile
+11/14/16, 5:08 PM - ‪+91 96083 85176‬: The problem is it needs html for more understand
+11/14/16, 5:08 PM - ‪+91 96083 85176‬: Oh that's good
+11/14/16, 5:08 PM - ‪+91 98299 05512‬: Not jhakkas but good for college project
+😂😂😂
+11/14/16, 5:08 PM - ‪+91 96083 85176‬: Then js is good
+11/14/16, 5:08 PM - ‪+91 96083 85176‬: How did you made it
+11/14/16, 5:09 PM - ‪+91 96083 85176‬: I mean hosting
+11/14/16, 5:09 PM - ‪+91 98299 05512‬: First language i touch is c 
+Thn java(neatbeans)
+Sql
+
+Now doing html,css and js
+11/14/16, 5:09 PM - ‪+91 98299 05512‬: I made it opensource on github
+11/14/16, 5:10 PM - ‪+91 98299 05512‬: 😆✌🏻
+11/14/16, 5:10 PM - ‪+91 96083 85176‬: Do you have any question related to that
+11/14/16, 5:10 PM - steven newzealand: 👍
+11/14/16, 5:10 PM - ‪+91 96083 85176‬: The domain name
+11/14/16, 5:10 PM - steven newzealand: With what? HTML? Or CSS?
+11/14/16, 5:10 PM - ‪+91 96083 85176‬: That's good
+11/14/16, 5:11 PM - ‪+91 96083 85176‬: Naveen is also on github
+11/14/16, 5:11 PM - ‪+91 96083 85176‬: Yes
+11/14/16, 5:11 PM - ‪+91 96083 85176‬: I mailed your team friend
+11/14/16, 5:12 PM - ‪+91 98299 05512‬: Github pages allow you to use 
+
+Username.github.io
+11/14/16, 5:12 PM - steven newzealand: I saw it, thanks.
+11/14/16, 5:12 PM - ‪+91 96083 85176‬: Oh I get it now
+11/14/16, 5:12 PM - ‪+91 96083 85176‬: I will clone download and learn
+11/14/16, 5:14 PM - ‪+7 937 492-96-39‬: I'll try to start with html, I want to write websites. Then i will see what to do next 😅
+11/14/16, 5:14 PM - ‪+91 98299 05512‬: ✌🏻
+11/14/16, 5:15 PM - steven newzealand: Okay, if you have any questions, feel free to ask me😄
+11/14/16, 5:15 PM - ‪+91 96083 85176‬: 👍
+11/14/16, 5:16 PM - ‪+7 937 492-96-39‬: Okay 😁
+11/14/16, 5:17 PM - ‪+7 937 492-96-39‬: I will write later, ty guys✌🏼
+11/14/16, 5:17 PM - steven newzealand: Np. Good luck learning HTML
+11/14/16, 5:20 PM - ‪+91 96083 85176‬: Who is syka and blyat are they websites
+11/14/16, 5:20 PM - steven newzealand: No, they are swear words in Russian
+11/14/16, 5:21 PM - ‪+91 96083 85176‬: I didn't knew it I just know the basics
+11/14/16, 5:21 PM - ‪+7 937 492-96-39‬: [14.11, 14:31] ‪+31 6 16014935‬: I don't hate Russian, I love them! I want to learn their language as well.
+
+I only know swear words tho😂
+[14.11, 14:32] Vlad musun: Syka and blyat? 😅
+11/14/16, 5:22 PM - ‪+91 96083 85176‬: Naveen is LYK being developed
+11/14/16, 5:22 PM - ‪+91 96083 85176‬: Yes I got it
+11/14/16, 5:23 PM - ‪+91 96083 85176‬: I saw screenshot but cant
+11/14/16, 5:23 PM - ‪+91 96083 85176‬: Figure out how to use
+11/14/16, 5:29 PM - ‪+91 96083 85176‬: You can add bootstrap and then rewrite
+It isn't perfect for mobile
+11/14/16, 5:29 PM - ‪+91 96083 85176‬: Well nice for a college project seems it will give A
+11/14/16, 5:30 PM - ‪+91 98299 05512‬: Yea i know im learning bootstrap too
+11/14/16, 5:30 PM - ‪+91 96083 85176‬: 😀
+11/14/16, 5:33 PM - steven newzealand: Silence.... Let's talk about simething else😂
+11/14/16, 5:33 PM - ‪+91 96083 85176‬: 🤐😷🤕
+11/14/16, 5:34 PM - steven newzealand: What's wrong, Lotan? Something happened?
+11/14/16, 5:34 PM - ‪+91 96083 85176‬: No just joking
+11/14/16, 5:35 PM - steven newzealand: Okay
+11/14/16, 5:35 PM - ‪+91 96083 85176‬: You say friend how's your experience of running the website
+11/14/16, 5:36 PM - ‪+91 96083 85176‬: I viewed your channel it is nice
+11/14/16, 5:36 PM - steven newzealand: Thank you.
+11/14/16, 5:38 PM - ‪+91 96083 85176‬: What do you think about CSS now
+11/14/16, 5:38 PM - steven newzealand: It's pretty easy, but I will need to practice it
+11/14/16, 5:39 PM - ‪+91 96083 85176‬: Try making animated buttons buttons which change color etc
+11/14/16, 5:40 PM - ‪+91 98299 05512‬: Html and css is easy just use id and classes , and as you practice you can remember css popular property too
+11/14/16, 5:40 PM - steven newzealand: I can't do that yet
+11/14/16, 5:40 PM - ‪+91 96083 85176‬: You said to change subject but we are still talking about old topics
+Let's bring some new ideas
+11/14/16, 5:40 PM - ‪+91 98299 05512‬: Like black color button and as u put mouse curson there ir changes to anyother color ?
+11/14/16, 5:42 PM - ‪+91 96083 85176‬: Yes
+You can do that button:hover{
+Background: green;
+}
+And adding transition to it will provide the effect animated
+11/14/16, 5:42 PM - ‪+91 98299 05512‬: Yep
+11/14/16, 5:43 PM - ‪+91 98299 05512‬: But ;_; any idea how can we change color automatically after some specific period 😆
+11/14/16, 5:45 PM - ‪+91 96083 85176‬: Yes that's button{
+Background: black:
+Animation: changecolor 3s liner;
+Animatiom-delay:1s;}
+11/14/16, 5:46 PM - ‪+91 96083 85176‬: Then
+@keyframes changecolor {
+100% {background:green} }
+11/14/16, 5:47 PM - ‪+91 96083 85176‬: You meant not on its own but after putting mouse pointer there that's what I said to add transition wait...
+11/14/16, 5:48 PM - ‪+91 98299 05512‬: Wew illl try that
+11/14/16, 5:50 PM - ‪+91 96083 85176‬: Button{
+Background: black; transition: background 3s linear;
+Transition-delay: 1s;
+}
+Button:hover{
+Bacground: green;
+}
+11/14/16, 5:50 PM - ‪+91 96083 85176‬: I don't for your website I meant friend Stevens CSS trying
+11/14/16, 5:51 PM - ‪+91 96083 85176‬: Your website is hit bro 😀
+11/14/16, 5:54 PM - ‪+91 96083 85176‬: Me too sometimes forget properties
+11/14/16, 5:57 PM - ‪+91 96083 85176‬: But after practise I remember the exact names some are confusing
+11/14/16, 5:58 PM - ‪+91 98299 05512‬: ✌🏻
+11/14/16, 5:58 PM - ‪+91 96083 85176‬: :)
+11/14/16, 7:22 PM - ‪+968 9771 2211‬ joined using this group's invite link
+11/14/16, 7:24 PM - ‪+968 9771 2211‬: Hi
+11/14/16, 7:24 PM - ‪+49 1575 2196506‬: Hi
+11/14/16, 7:25 PM - ‪+968 9771 2211‬: How are you...?
+11/14/16, 7:26 PM - ‪+49 1575 2196506‬: Good I guess.
+11/14/16, 7:26 PM - ‪+49 1575 2196506‬: And you?
+11/14/16, 7:26 PM - ‪+968 9771 2211‬: I,m fine 😊
+11/14/16, 7:29 PM - ‪+968 9771 2211‬: My name is Hamed 
+
+Live in Oman
+11/14/16, 7:30 PM - Naveen DA: welcome hamed
+11/14/16, 7:30 PM - ‪+49 1575 2196506‬: Do you have any questions or problems about coding?
+11/14/16, 7:31 PM - ‪+968 9771 2211‬: No
+11/14/16, 7:31 PM - Naveen DA: hey guys so whats about todays topic
+11/14/16, 7:39 PM - ‪+55 27 99762-7395‬: For yours is easy programming,English is you languagem natural
+11/14/16, 7:40 PM - ‪+7 937 492-96-39‬: <Media omitted>
+11/14/16, 7:40 PM - ‪+91 98299 05512‬: It doesnt matter if u have internet or not
+11/14/16, 7:41 PM - ‪+91 98299 05512‬: With local files
+11/14/16, 7:42 PM - ‪+7 937 492-96-39‬: must specify a file path?
+11/14/16, 7:43 PM - steven newzealand: With local files, you need the code to be in the exact same file map as the picture, in order to make it work.
+11/14/16, 7:44 PM - ‪+91 98299 05512‬: Specify correct path bro
+11/14/16, 7:44 PM - ‪+7 937 492-96-39‬: Thanks😅
+11/14/16, 7:44 PM - ‪+91 98299 05512‬: Or make a folder put your html file and image in that folder
+11/14/16, 7:44 PM - ‪+91 98299 05512‬: Thn run page
+11/14/16, 7:46 PM - Naveen DA: on chrome press f12 its shows what error you get
+11/14/16, 7:46 PM - steven newzealand: He doesn't have a internet connection
+11/14/16, 7:47 PM - ‪+91 98299 05512‬: @79374929639 use this as your code is correct for this format
+11/14/16, 7:49 PM - ‪+49 1575 2196506‬: It has to be the same folder and the src name has to be equal to the name of the picture in the folder.
+11/14/16, 7:50 PM - steven newzealand: Yep
+11/14/16, 7:52 PM - ‪+7 937 492-96-39‬: Work thanks ✌🏼😀
+11/14/16, 7:58 PM - ‪+49 1575 2196506‬: No problem.
+11/14/16, 8:07 PM - Naveen DA: hey setven did you *how to customize input type='file'?
+its also in html
+11/14/16, 8:07 PM - steven newzealand: I know that yes
+11/14/16, 8:07 PM - Naveen DA: good
+11/14/16, 8:07 PM - Naveen DA: but i learn too late
+11/14/16, 8:07 PM - steven newzealand: Doesn't matter.
+11/14/16, 8:09 PM - steven newzealand: It's never to late to learn
+11/14/16, 8:12 PM - Naveen DA: http://www.w3schools.com/html/html_entities.asp
+
+html entites helps to create symbol without  glyphs
+11/14/16, 8:29 PM - ‪+91 98299 05512‬: <input type="file">
+11/14/16, 8:30 PM - ‪+91 98299 05512‬: </input>
+11/14/16, 8:33 PM - steven newzealand: For my forms I use an different input tag.
+
+For example, the enail one:
+<input type="text" name="email" placeholder="email@example.com/>
+11/14/16, 8:33 PM - ‪+968 9771 2211‬ left
+11/14/16, 8:33 PM - ‪+91 98299 05512‬: Use class and change property
+11/14/16, 8:33 PM - ‪+91 98299 05512‬: Thats for textfield right
+11/14/16, 8:33 PM - ‪+91 98299 05512‬: ?
+11/14/16, 8:33 PM - steven newzealand: Yea
+11/14/16, 8:35 PM - steven newzealand: Oh he asked for the file input
+11/14/16, 8:41 PM - ‪+91 96083 85176‬: Good morning to those whose see rising sunlight in that part of earth
+11/14/16, 8:42 PM - steven newzealand: In here it is almost sun fall
+11/14/16, 8:42 PM - ‪+49 1575 2196506‬: Yeah
+11/14/16, 8:43 PM - ‪+91 96083 85176‬: Yes you can make such input it is used to choose file also called file chooser dialog
+11/14/16, 8:43 PM - ‪+49 1575 2196506‬: In 2 hours it will be dark.
+11/14/16, 8:43 PM - ‪+91 96083 85176‬: It's night here in india
+11/14/16, 8:43 PM - steven newzealand: Okay, yeah, I only knew the text and select input
+11/14/16, 8:44 PM - Naveen DA: But guys class and id property cannot change input="file"
+11/14/16, 8:44 PM - ‪+91 96083 85176‬: What customization you want
+11/14/16, 8:45 PM - ‪+91 96083 85176‬: Most browser show a button a file name text box and it's preview
+11/14/16, 8:45 PM - ‪+91 96083 85176‬: Well modern web services uses drag drop APIs to upload file
+11/14/16, 8:46 PM - steven newzealand: Yea, I still don't get the drag drop API
+11/14/16, 8:47 PM - ‪+91 96083 85176‬: Why do you scare your little brother steven
+11/14/16, 8:47 PM - steven newzealand: It is fake, don't worry😂👍
+
+All set up
+11/14/16, 8:47 PM - ‪+91 96083 85176‬: Oh I see
+11/14/16, 8:50 PM - ‪+91 96083 85176‬: You can change that button like other buttons and hide other things and add a indicator text div next to it
+11/14/16, 8:53 PM - ‪+91 96083 85176‬: We can't handle much about it you know it's a sensitive thing from view of security so browser itself copies the file temporarily and send neither scripts nor style nor the rules can be changed
+11/14/16, 8:53 PM - Naveen DA: <Media omitted>
+11/14/16, 8:54 PM - ‪+91 96083 85176‬: That's called textarea
+11/14/16, 8:55 PM - ‪+91 96083 85176‬: You tell rows cols <input type=textarea
+11/14/16, 8:55 PM - ‪+91 96083 85176‬: >
+11/14/16, 8:55 PM - Naveen DA: no below the textarea is input file
+11/14/16, 8:55 PM - Naveen DA: <Media omitted>
+11/14/16, 8:56 PM - ‪+91 96083 85176‬: Oh yes then that's file chooser
+11/14/16, 9:01 PM - ‪+91 96083 85176‬: <label for=file>browse... </labe l>
+<Input type=file       >
+name=status I'd=status photo>
+Label {
+Styles to make it look nice
+Cursor:pointer;
+Color:green;
+}
+#statusphoto {
+Visibility: hidden;
+}
+11/14/16, 9:02 PM - ‪+91 96083 85176‬: You can log the event and check out the console you will be amazed to see how tight security browsers do
+11/14/16, 9:03 PM - Naveen DA: extaclly but <label for="status photo">
+11/14/16, 9:04 PM - ‪+91 96083 85176‬: I have seen in it chrome it adds to its threads and display the path as c:/fakepat I thought it adds to filesyst but no it temporarily stores in thread
+11/14/16, 9:05 PM - ‪+91 96083 85176‬: But some Google site can access anything like a native page of it that's because they are whitelisted
+11/14/16, 9:05 PM - ‪+91 96083 85176‬: Ok
+11/14/16, 9:08 PM - ‪+91 96083 85176‬: If you are generating preview of your own style in a local file then you can't because block such requests of reading the chosen file websites do this by uploading and then sending the created preview to you I don't know exactly how they do so
+11/14/16, 9:09 PM - ‪+91 96083 85176‬: So you are done is your question is the make a file chooser exactly like this
+11/14/16, 9:09 PM - Naveen DA: no
+11/14/16, 9:10 PM - ‪+91 96083 85176‬: If you are generating preview of your own style in a local file then you can't because browser block such requests of reading the chosen file websites do this by uploading and then sending the created preview to you I don't know exactly how they do so
+11/14/16, 9:10 PM - ‪+91 96083 85176‬: Then what is your question 😀
+11/14/16, 9:10 PM - Naveen DA: wait wait i will there
+11/14/16, 9:11 PM - ‪+91 96083 85176‬: Inside label tags then add icons upon clicking which that box comes out
+11/14/16, 9:12 PM - ‪+91 96083 85176‬: Sorry input tag
+11/14/16, 9:13 PM - ‪+91 96083 85176‬: And this input button like other input can be styked
+11/14/16, 9:14 PM - ‪+91 96083 85176‬: Like background color animation
+11/14/16, 9:14 PM - ‪+91 96083 85176‬: Or width height shadow
+11/14/16, 9:15 PM - ‪+91 96083 85176‬: Or width height shafow
+11/14/16, 9:17 PM - ‪+91 96083 85176‬: Please post your code if possible 👍
+11/14/16, 9:18 PM - ‪+91 96083 85176‬ added ‪+91 72778 00723‬
+11/14/16, 9:55 PM - ‪+880 1759-998041‬ joined using this group's invite link
+11/14/16, 9:55 PM - ‪+880 1759-998041‬: hi?
+11/14/16, 9:55 PM - ‪+91 96083 85176‬: Hi welcome
+11/14/16, 9:55 PM - ‪+91 96083 85176‬: Here
+11/14/16, 9:56 PM - ‪+880 1759-998041‬: Okay can we have discussion
+11/14/16, 9:56 PM - ‪+91 96083 85176‬: Sure
+11/14/16, 9:56 PM - ‪+91 98299 05512‬: Yea y not
+11/14/16, 9:57 PM - ‪+880 1759-998041‬: okay, Bye see u later
+11/14/16, 9:57 PM - ‪+91 98299 05512‬: Wew
+11/14/16, 9:57 PM - ‪+91 98299 05512‬: 😆
+11/14/16, 9:59 PM - ‪+91 96083 85176‬: It's 2pm there
+11/14/16, 9:59 PM - ‪+91 98299 05512‬: Its 10pm here
+11/14/16, 10:00 PM - ‪+91 96083 85176‬: No 10 pm
+11/14/16, 10:00 PM - ‪+91 96083 85176‬: Yes bangaldesh
+11/14/16, 10:00 PM - ‪+91 96083 85176‬: Tumi bangla boltaso
+11/14/16, 10:00 PM - ‪+880 1759-998041‬: Its 10:30
+11/14/16, 10:00 PM - ‪+91 98299 05512‬: 10.00pm exact
+11/14/16, 10:00 PM - ‪+91 98299 05512‬: 😂
+11/14/16, 10:00 PM - ‪+880 1759-998041‬: Ha ami bangla jani
+11/14/16, 10:00 PM - ‪+91 98299 05512‬: Na ami bangla na-jani 😆
+11/14/16, 10:01 PM - ‪+91 98299 05512‬: Sorry if that was wrong 😐
+11/14/16, 10:01 PM - ‪+880 1759-998041‬: so you are definitely from india
+11/14/16, 10:01 PM - ‪+91 96083 85176‬: Tomar favourite programming language
+11/14/16, 10:02 PM - ‪+91 98299 05512‬: Rajasthan(india)
+11/14/16, 10:02 PM - ‪+91 96083 85176‬: Country does not matter you can join us if you like
+11/14/16, 10:02 PM - ‪+91 96083 85176‬: I am Jharkhand india
+11/14/16, 10:03 PM - ‪+91 96083 85176‬: View me at solo learn by name of Sandeep Chatterjee
+11/14/16, 10:03 PM - ‪+880 1759-998041‬: Java is my favourite. and Im A student of 7th Standard and Got a exam on my head
+11/14/16, 10:04 PM - ‪+91 96083 85176‬: Oh that's cool
+Porikha e java asbe
+11/14/16, 10:04 PM - ‪+91 96083 85176‬: Javar porikha hobaa
+11/14/16, 10:05 PM - ‪+880 1759-998041‬: Nope. You just asked me whats my favorite programming language. that would be cool if We got exam in java
+11/14/16, 10:05 PM - ‪+880 1759-998041‬: Ill talk to principal about this
+11/14/16, 10:05 PM - ‪+91 96083 85176‬: You may in higher classes
+11/14/16, 10:05 PM - ‪+880 1759-998041‬: 😂.Just kidding
+11/14/16, 10:06 PM - ‪+91 96083 85176‬: If you choose computer science as a subject
+11/14/16, 10:06 PM - ‪+880 1759-998041‬: Hello, i am a high school boy
+11/14/16, 10:07 PM - ‪+880 1759-998041‬: So there is no computer science
+11/14/16, 10:07 PM - ‪+91 98299 05512‬: Daymm 7th class 😬
+11/14/16, 10:08 PM - ‪+91 98299 05512‬: If u starts now your are gonna to be good developer till u complete school
+11/14/16, 10:08 PM - ‪+91 96083 85176‬: That's it 👍 keep learning to do that
+11/14/16, 10:09 PM - ‪+91 98299 05512‬: I start learning languages when i finished my school
+11/14/16, 10:09 PM - ‪+880 1759-998041‬: thanks, Gotta sleep.
+11/14/16, 10:10 PM - ‪+91 96083 85176‬: It's 2pm at os tochios
+11/14/16, 10:10 PM - steven newzealand: Sleep well, dude
+11/14/16, 10:10 PM - ‪+91 96083 85176‬: Gd night
+11/14/16, 10:10 PM - ‪+91 98299 05512‬: 2am right ?
+11/14/16, 10:11 PM - ‪+91 96083 85176‬: No no 2pm it's noon at brazil
+11/14/16, 10:11 PM - ‪+91 98299 05512‬: Oohh
+11/14/16, 10:12 PM - ‪+91 96083 85176‬: Hamen Kya hai sone de
+11/14/16, 10:12 PM - ‪+91 98299 05512‬: 😂😂😂
+11/14/16, 10:13 PM - ‪+91 96083 85176‬: Oh dhruv you made your file chooser 😀
+11/14/16, 10:13 PM - ‪+91 98299 05512‬: What
+11/14/16, 10:14 PM - ‪+91 96083 85176‬: Oh it's different guy see above chats
+11/14/16, 10:14 PM - ‪+91 96083 85176‬: His no. Resembled yours so I thought it's him
+11/14/16, 10:14 PM - ‪+91 96083 85176‬: Your project gonna get grade A
+11/14/16, 10:15 PM - ‪+91 96083 85176‬: I thought it's the real website of banguluru college it's very cool
+11/14/16, 10:16 PM - ‪+91 98299 05512‬: It is 😃
+11/14/16, 10:16 PM - ‪+91 98299 05512‬: Actually our project is to copy the design of any institute website and make one from starting
+11/14/16, 10:16 PM - ‪+91 96083 85176‬: You made exactly like it.
+Many links are working
+11/14/16, 10:16 PM - ‪+91 98299 05512‬: So i choose iim Bangalore website
+11/14/16, 10:17 PM - ‪+91 96083 85176‬: Oh you succeeded then perhaos
+11/14/16, 10:17 PM - ‪+91 98299 05512‬: And copy its design without looking into its code
+11/14/16, 10:17 PM - ‪+91 98299 05512‬: Try visit iimb website and then compare
+11/14/16, 10:17 PM - ‪+91 98299 05512‬: 😀
+11/14/16, 10:17 PM - ‪+91 96083 85176‬: 👍
+11/14/16, 10:17 PM - ‪+91 98299 05512‬: http://www.iimb.ernet.in/
+11/14/16, 10:18 PM - ‪+91 98299 05512‬: Iim Bangalore website
+11/14/16, 10:18 PM - ‪+91 96083 85176‬: Yes they look similar 😀
+11/14/16, 10:19 PM - ‪+91 96083 85176‬: It has mobile view but yours getting tgat
+11/14/16, 10:20 PM - steven newzealand: Oh wow, that is worth at least an A grade😄👍
+11/14/16, 10:20 PM - ‪+91 96083 85176‬: That and images in galleries are just other
+11/14/16, 10:20 PM - ‪+91 96083 85176‬: Yes it is
+11/14/16, 10:21 PM - ‪+91 72778 00723‬: 😊✌
+11/14/16, 10:25 PM - ‪+91 96083 85176‬: He is Avinash sir A computer science teacher
+11/14/16, 10:27 PM - steven newzealand: Noice
+11/14/16, 10:28 PM - ‪+91 96083 85176‬: He has made his own website talenthuntacademy.com
+11/14/16, 10:29 PM - steven newzealand: Oooh double noice.
+11/14/16, 10:32 PM - ‪+91 98299 05512‬: Wow
+11/14/16, 10:33 PM - ‪+91 98299 05512‬: That site is pretty dope 😍❤
+11/14/16, 10:35 PM - steven newzealand: Ikr?
+11/14/16, 10:35 PM - ‪+91 96083 85176‬: I didn't got it
+11/14/16, 10:36 PM - steven newzealand: Ikr means I know right
+11/14/16, 10:37 PM - ‪+91 96083 85176‬: Sir has his own computer institute too
+11/14/16, 10:37 PM - ‪+91 98299 05512‬: Sir, teach us 🙏🏻
+11/14/16, 10:37 PM - steven newzealand: That is amazing
+11/14/16, 10:38 PM - ‪+91 96083 85176‬: Yes please teach us
+11/14/16, 10:41 PM - ‪+91 96083 85176‬: Apart from it he loves art too and has made a university appointing teachers for dance singing acting that's for what the website is it is a WordPress perhaps too
+11/14/16, 10:42 PM - steven newzealand: Nice.
+11/14/16, 10:43 PM - ‪+91 72778 00723‬: www.facebook.com/tha.dhanbad
+11/14/16, 10:43 PM - ‪+91 72778 00723‬: Thnx @sandeep
+11/14/16, 10:44 PM - steven newzealand: Nice to meet you sir
+11/14/16, 10:44 PM - ‪+91 96083 85176‬: Teacher shouldn't say thank sir
+11/14/16, 10:45 PM - ‪+91 72778 00723‬: Hi I m Avinash Chakrabarti
+Known as Avi Arya Elder cousin of sandeep
+11/14/16, 10:45 PM - ‪+91 72778 00723‬: 😎✌
+11/14/16, 10:46 PM - steven newzealand: Again, nice to meet you.
+11/14/16, 10:46 PM - ‪+91 72778 00723‬: www.facebook.com/avinash.chakrabarti
+11/14/16, 10:46 PM - ‪+91 96083 85176‬: That's surprise sir is my brother too
+11/14/16, 10:46 PM - ‪+91 72778 00723‬: Its my fb id welcome all group members
+11/14/16, 10:47 PM - ‪+91 72778 00723‬: You should add more person to making more admin thnx
+11/14/16, 10:47 PM - ‪+91 72778 00723‬: I care computer solutions
+Is our institution
+11/14/16, 10:48 PM - ‪+91 72778 00723‬: Talent Hunt Academy 
+Is our Dance n acting Academy
+11/14/16, 10:48 PM - steven newzealand: I heard of that academy
+11/14/16, 10:48 PM - ‪+91 96083 85176‬: The institution has department for repairing and store too
+11/14/16, 10:49 PM - ‪+91 96083 85176‬: He's my friend steven
+11/14/16, 10:49 PM - ‪+91 96083 85176‬: All members Naveen da dhruv are friends
+11/14/16, 10:50 PM - steven newzealand: Hi, I'm Steven,
+I'm 17 years old,
+I'm from The Netherlands and
+I'm currently learning HTML and CSS
+11/14/16, 10:52 PM - ‪+91 96083 85176‬: We have members from all over the world a Russian boy a Portuguese man a kid from Washington DC a German we few Indians
+11/14/16, 10:52 PM - ‪+91 96083 85176‬: At this group half member see night sky and half morning sunrays
+11/14/16, 10:52 PM - Naveen DA: and a guy form netherlands too
+11/14/16, 10:53 PM - steven newzealand: Yay, Netherlands at the top😂😂😂
+11/14/16, 10:54 PM - ‪+91 96083 85176‬: Ok you guys want to have knowledge about computers from booting to writing cds
+11/14/16, 11:04 PM - ‪+91 96083 85176‬: I am preparing for exams these days the entrance exams so I may be unavailable sometimes
+Friends you can contact me by SandeepChatterjee66@gmail.com
+Plus.google.com/+SandeepChatterjee123
+11/14/16, 11:04 PM - Naveen DA: 👍🏻
+11/14/16, 11:05 PM - steven newzealand: 👍
+11/14/16, 11:05 PM - ‪+91 96083 85176‬: Nice to meet you all of you friends good night
+11/14/16, 11:05 PM - Naveen DA: all the best sandeep for your entrance exam
+11/14/16, 11:05 PM - steven newzealand: Good night
+11/14/16, 11:06 PM - ‪+91 96083 85176‬: Thanks
+11/14/16, 11:06 PM - ‪+91 96083 85176‬: Can't believe the group have been made about 24 hours ago
+11/14/16, 11:07 PM - steven newzealand: I can't believe it as well. We have grown very big in the mean time.
+11/14/16, 11:11 PM - ‪+91 96083 85176‬: My profile link https://www.sololearn.com/profile/2139727/
+11/14/16, 11:12 PM - ‪+91 96083 85176‬: https://www.sololearn.com/profile/2139727/
+11/14/16, 11:12 PM - ‪+91 96083 85176‬: Ok bye bye
+11/14/16, 11:12 PM - steven newzealand: Buh bye
+11/15/16, 8:36 AM - ‪+1 (773) 860-6203‬ joined using this group's invite link
+11/15/16, 8:36 AM - ‪+91 88880 19191‬ joined using this group's invite link
+11/15/16, 7:28 AM - ‪+91 96083 85176‬: Welcome
+11/15/16, 7:29 AM - ‪+91 96083 85176‬: Your no is nice 4 8s 0 then alternate 9 and 1
++9188880191191
+11/15/16, 7:30 AM - ‪+91 96083 85176‬: By the way this is coders group
+11/15/16, 7:31 AM - ‪+91 96083 85176‬: Welcome Chicago's guy too
+11/15/16, 7:50 AM - ‪+91 96083 85176‬: If you want your websites indexed check out these https://www.google.com/webmasters/#?modal_active=none
+11/15/16, 7:52 AM - ‪+91 98299 05512‬: Thanks
+11/15/16, 7:55 AM - ‪+91 96083 85176‬: It'd welcome dhruv saxena this website has article for learning
+11/15/16, 7:56 AM - ‪+91 96083 85176‬: It's welcome dhruv saxena this website has article for learning
+about search console
+11/15/16, 12:41 PM - ‪+91 96083 85176‬ left
+11/15/16, 11:37 AM - steven newzealand: Why did Lotan keave the group?
+11/15/16, 11:38 AM - steven newzealand: Welcome
+11/15/16, 11:39 AM - ‪+91 99761 69650‬: CSS basic nots in PDF
+11/15/16, 11:40 AM - steven newzealand: Wait, what? I don't get it.
+11/15/16, 11:55 AM - ‪+91 99761 69650‬: Nots css
+11/15/16, 11:55 AM - ‪+91 98299 05512‬: Notes ? U mean
+11/15/16, 11:55 AM - ‪+91 98299 05512‬: Check w3school and tutorialspoint
+11/15/16, 11:57 AM - ‪+91 99761 69650‬: Ok
+11/15/16, 12:41 PM - ‪+91 99761 69650‬ joined using this group's invite link
+11/15/16, 12:53 PM - Naveen DA: sandeep is busy for prepare entrance examination 😉
+11/15/16, 12:53 PM - steven newzealand: Ok, thanks. Good morning by the way
+11/15/16, 12:54 PM - Naveen DA: ha ha good afternoon steven
+11/15/16, 12:54 PM - steven newzealand: I need to go. School's starting
+11/15/16, 12:55 PM - Naveen DA: k k enjoy
+11/15/16, 1:03 PM - ‪+62 852-5660-0801‬: Hello everyone
+11/15/16, 1:04 PM - Naveen DA: hi
+11/15/16, 1:05 PM - ‪+91 96083 85176‬ joined using this group's invite link
+11/15/16, 1:06 PM - ‪+91 96083 85176‬: Relax friends I just stopped it for some time because I have to prepare for my test
+11/15/16, 1:07 PM - ‪+91 96083 85176‬: Why would I quit from friendship of you friends
+11/15/16, 1:08 PM - ‪+91 96083 85176‬: By the way I am Sandeep Chatterjee not Lotan that's why I introduce myself all the time
+11/15/16, 1:10 PM - ‪+91 96083 85176‬: I left my contact till then to remain friend
+11/15/16, 1:19 PM - ‪+91 86071 05977‬ joined using this group's invite link
+11/15/16, 1:21 PM - ‪+60 18-276 3433‬ joined using this group's invite link
+11/15/16, 1:22 PM - ‪+60 18-276 3433‬ left
+11/15/16, 1:33 PM - ‪+880 1759-998041‬: Hi welcome
+11/15/16, 1:33 PM - ‪+91 96083 85176‬: Hi
+11/15/16, 1:33 PM - ‪+880 1759-998041‬: Hello
+11/15/16, 1:34 PM - ‪+880 1759-998041‬: How r u?
+11/15/16, 1:34 PM - ‪+91 96083 85176‬: We are fine
+11/15/16, 1:34 PM - ‪+880 1759-998041‬: Nice
+11/15/16, 1:36 PM - ‪+91 96083 85176‬: Discuss where you are at java now
+11/15/16, 1:37 PM - ‪+880 1759-998041‬: Im In abstract classes
+11/15/16, 1:37 PM - ‪+91 96083 85176‬: Oh
+11/15/16, 1:37 PM - ‪+880 1759-998041‬: Ive reset it for about 6 times
+11/15/16, 1:38 PM - ‪+91 96083 85176‬: So you have got far ahead on modules
+11/15/16, 1:39 PM - ‪+880 1759-998041‬: and I read some books on it i mean Ebooks.
+11/15/16, 1:39 PM - ‪+91 96083 85176‬: Does resetting and reattempting. gives xp
+11/15/16, 1:39 PM - ‪+880 1759-998041‬: Nope
+11/15/16, 1:39 PM - ‪+880 1759-998041‬: It doesn't
+11/15/16, 1:39 PM - ‪+91 96083 85176‬: I have taken shortcuts in java does that lose xp
+11/15/16, 1:40 PM - ‪+880 1759-998041‬: No it doesn't too,  Thats mean You knew about it earlier
+11/15/16, 1:41 PM - ‪+91 96083 85176‬: Yes and it was repeating same lectures on the syntax
+11/15/16, 1:42 PM - ‪+880 1759-998041‬: ohh, do you read books on it.
+11/15/16, 1:43 PM - ‪+91 96083 85176‬: I n printed books just my school books and no printed books but I have many soft copies of famous books
+11/15/16, 1:43 PM - ‪+880 1759-998041‬: Are you leaning XML for android development
+11/15/16, 1:44 PM - ‪+880 1759-998041‬: I see
+11/15/16, 1:44 PM - ‪+91 96083 85176‬: And some other tutorial course like solo learn
+11/15/16, 1:44 PM - ‪+880 1759-998041‬: okay,Do you know something about Google go
+11/15/16, 1:45 PM - ‪+91 96083 85176‬: I have learnt it only on tutorials point they give pdf version
+11/15/16, 1:45 PM - ‪+91 96083 85176‬: I have heard the name it's new programming language by Google
+11/15/16, 1:46 PM - ‪+91 96083 85176‬: I have made some small apps through android studio
+11/15/16, 1:47 PM - ‪+880 1759-998041‬: Yeah can u mail these to me
+11/15/16, 1:47 PM - ‪+880 1759-998041‬: What kind of apps
+11/15/16, 1:48 PM - ‪+91 96083 85176‬: But the method which I use most is by converting a web project into .apk file you have to specify a index.html which will become main activity
+This is easy as html CSS etc are all easy
+There are tools to do that
+11/15/16, 1:50 PM - ‪+91 96083 85176‬: Apps made modifying project folder in android studio
+As told by the tutorial I renamed some details in manifest file then made button labels in XML and added a java class
+11/15/16, 1:51 PM - ‪+880 1759-998041‬: Simply great.
+11/15/16, 1:51 PM - ‪+880 1759-998041‬: i didn't knew about it
+11/15/16, 1:51 PM - ‪+880 1759-998041‬: So we can convert web apps to Android apps
+11/15/16, 1:51 PM - ‪+91 96083 85176‬: These apps are not so great they are just extension of hello world example says name randomly calculate sum difference and I have made a app which outputs toasts of given input
+11/15/16, 1:52 PM - ‪+91 96083 85176‬: Yes there is adobe services for that too
+11/15/16, 1:52 PM - ‪+91 96083 85176‬: But you will learn anything how apps work
+11/15/16, 1:53 PM - ‪+91 96083 85176‬: I prefer it because I don't know advanced Java and here I have some knowledge of js html CSS to do the work
+11/15/16, 1:54 PM - ‪+880 1759-998041‬: okay, im not really sure about my programming career , I want something more dramatic.
+11/15/16, 1:54 PM - ‪+91 96083 85176‬: 👍
+11/15/16, 1:54 PM - steven newzealand: Then go to acting school😂👍
+
+Sorry.
+11/15/16, 1:55 PM - ‪+880 1759-998041‬: Nice one,I don't want to be a actor.
+11/15/16, 1:55 PM - ‪+91 96083 85176‬: I am still learning how they program apps I don't know much about android
+11/15/16, 1:56 PM - ‪+880 1759-998041‬: Okay
+11/15/16, 1:56 PM - steven newzealand: Me neither. I don't have any knowledge about Android and IOS
+11/15/16, 1:56 PM - steven newzealand: I only know that I've got a very old Android phone
+11/15/16, 1:56 PM - ‪+91 96083 85176‬: I just have 
+ tutorials
+11/15/16, 1:57 PM - ‪+880 1759-998041‬: You need swift for IOS. and I hate apples Ijunk
+11/15/16, 1:57 PM - ‪+91 96083 85176‬: Yeah that's apples marketing policy but swift is great language I joined the course on solo learn too
+11/15/16, 1:58 PM - ‪+880 1759-998041‬: androis is awesome.  But the real problem is piracy.
+11/15/16, 1:59 PM - ‪+880 1759-998041‬: Honestly, I really enjoy piracy
+11/15/16, 2:14 PM - ‪+91 96083 85176‬: I think you should say you need iOS for swift
+11/15/16, 2:15 PM - ‪+91 96083 85176‬: Because I heard they can be made using c# too so perhaps not swift for ios
+11/15/16, 4:29 PM - ‪+255 713 124 491‬ joined using this group's invite link
+11/15/16, 2:17 PM - ‪+91 96083 85176‬: I don't know much about it
+11/15/16, 2:18 PM - ‪+880 1759-998041‬: yeah,I got my Meal too.
+11/15/16, 4:29 PM - ‪+91 94206 03122‬ joined using this group's invite link
+11/15/16, 2:19 PM - ‪+91 96083 85176‬: You tell us about Google go
+11/15/16, 2:20 PM - ‪+880 1759-998041‬: Okay Im interested about google go but havenot take a serious tutorial
+11/15/16, 2:20 PM - ‪+91 96083 85176‬: I heard they have been imposed over its employees I don't got news about these
+11/15/16, 2:21 PM - ‪+91 96083 85176‬: So what is it about
+11/15/16, 2:21 PM - ‪+880 1759-998041‬: I dont know
+11/15/16, 2:21 PM - ‪+91 96083 85176‬: Me too
+11/15/16, 2:21 PM - ‪+880 1759-998041‬: It was release maybe in 2007
+11/15/16, 2:22 PM - ‪+880 1759-998041‬: It also have methods like java
+11/15/16, 2:24 PM - ‪+880 1759-998041‬: It have compiler
+11/15/16, 2:24 PM - ‪+880 1759-998041‬: not like java, It doesn't have Virtual machine
+11/15/16, 2:24 PM - ‪+880 1759-998041‬: Thats all i know
+11/15/16, 2:24 PM - ‪+91 96083 85176‬: You mean jvm
+11/15/16, 2:25 PM - ‪+880 1759-998041‬: Yeah JVM
+11/15/16, 2:25 PM - ‪+91 96083 85176‬: 👍
+11/15/16, 2:25 PM - ‪+880 1759-998041‬: So its capable of building os I think
+11/15/16, 2:25 PM - ‪+880 1759-998041‬: Thats all i know
+11/15/16, 2:25 PM - ‪+880 1759-998041‬: maybe google Drive uses it
+11/15/16, 2:26 PM - ‪+880 1759-998041‬: do you know about hack programming language
+11/15/16, 2:27 PM - ‪+880 1759-998041‬: Its by facebook, I haven't understand that. Its somehow related to php. it starts like php like <?hh
+11/15/16, 2:27 PM - ‪+91 96083 85176‬: I know php
+11/15/16, 2:27 PM - ‪+880 1759-998041‬: I don't know about php either
+11/15/16, 2:28 PM - ‪+91 96083 85176‬: Oh that's it's syntax
+<? Php
+Echo $var
+>
+11/15/16, 2:29 PM - ‪+91 96083 85176‬: Php is not that difficult its server side scripting language
+11/15/16, 2:29 PM - ‪+880 1759-998041‬: After exam Ill learn php and python too. And start studying physics
+11/15/16, 2:30 PM - ‪+91 96083 85176‬: The official site of php teaches php and it's loop for etc is similar to
+Other lang like java
+11/15/16, 2:31 PM - ‪+91 96083 85176‬: I have started learning Python script but I don't all things in it
+11/15/16, 2:31 PM - steven newzealand: I'm in recess. What are we talking about?😂
+11/15/16, 2:33 PM - ‪+91 96083 85176‬: Python has same things like other language some difference it has indenting instead of braces and some like elif it doe s not have array it has index and nested index and same loops
+11/15/16, 2:33 PM - ‪+91 96083 85176‬: Are you allowed to carry a smartphone in school
+11/15/16, 2:34 PM - steven newzealand: Yes I am, but it needs to be silenced.
+
+Our school even provides us with free WiFi
+11/15/16, 2:35 PM - ‪+91 96083 85176‬: That's in college only most of the college on our school has rule
+It's good too because there will distraction if they carry unnecessary electronics
+11/15/16, 2:36 PM - steven newzealand: Okay. But I'm not in college.
+11/15/16, 2:36 PM - ‪+91 96083 85176‬: That's in college only most of the school on our country has rule
+It's good too because there will distraction if they carry unnecessary electronics
+11/15/16, 2:36 PM - steven newzealand: I'm in special educational school
+11/15/16, 2:37 PM - ‪+91 96083 85176‬: What does that mean
+11/15/16, 2:37 PM - steven newzealand: It's a school for people with autism, ADHD and many more.
+11/15/16, 2:38 PM - ‪+91 96083 85176‬: But you have them I have seen you
+11/15/16, 2:38 PM - ‪+91 96083 85176‬: But you don't have them I have seen you
+11/15/16, 2:38 PM - steven newzealand: I've got two versions of autism
+11/15/16, 2:38 PM - ‪+880 1759-998041‬: Are you one of them
+11/15/16, 2:38 PM - ‪+91 96083 85176‬: So it's allowed in other schools too
+11/15/16, 2:39 PM - steven newzealand: Nope. As far as I know, not. Just a little amount of schools is allowing that
+11/15/16, 2:39 PM - ‪+880 1759-998041‬: I dont have any Idea about autism
+11/15/16, 2:39 PM - steven newzealand: Google it
+11/15/16, 2:39 PM - ‪+91 96083 85176‬: Yes mobile phones are allowed In many Indian schools too
+11/15/16, 2:40 PM - ‪+880 1759-998041‬: I know Its kind of born disease or something
+11/15/16, 2:40 PM - steven newzealand: Yea it is
+11/15/16, 2:41 PM - ‪+91 96083 85176‬: But you speak clearly you even represent a t
+YouTube channel too
+11/15/16, 2:41 PM - ‪+91 96083 85176‬: Oh these are in India too
+11/15/16, 2:42 PM - ‪+880 1759-998041‬: He have a YouTube channel?
+11/15/16, 2:42 PM - steven newzealand: Yes I'm the leader of a YouTube team with 6 people
+11/15/16, 2:42 PM - ‪+91 96083 85176‬: Yes his team has it is teamtge steven is his head
+11/15/16, 2:43 PM - steven newzealand: Team TGN is the name of the channel
+11/15/16, 2:43 PM - ‪+880 1759-998041‬: name plz? And What its about
+11/15/16, 2:43 PM - ‪+91 96083 85176‬: They have a website too you can visit that
+11/15/16, 2:43 PM - steven newzealand: http://teamtgn.jimdo.com/
+11/15/16, 2:43 PM - ‪+91 96083 85176‬: It contains reviews of games
+11/15/16, 2:43 PM - ‪+880 1759-998041‬: i see
+11/15/16, 2:44 PM - ‪+880 1759-998041‬: U guys t gamer
+11/15/16, 2:44 PM - steven newzealand: Recess is over. See you later
+11/15/16, 2:44 PM - ‪+91 96083 85176‬: Ok concentrate on lesson
+11/15/16, 2:46 PM - ‪+880 1759-998041‬: It feels like coc global chat.
+11/15/16, 2:50 PM - ‪+880 1759-998041‬: I played coc and did cheating and got banned and I became a legend of kids😂
+11/15/16, 3:29 PM - ‪+255 713 124 491‬: Hi,,,,
+11/15/16, 4:34 PM - ‪+91 81227 70479‬ joined using this group's invite link
+11/15/16, 4:46 PM - ‪+62 856-0722-2906‬ joined using this group's invite link
+11/15/16, 5:06 PM - steven newzealand: Welcome all, to tgis coder's WhatsApp group
+11/15/16, 5:07 PM - ‪+55 27 99762-7395‬: Whats os outher group off english?
+11/15/16, 5:08 PM - steven newzealand: I don't get it.
+11/15/16, 5:09 PM - ‪+91 81227 70479‬: So this group is all about?
+11/15/16, 5:09 PM - steven newzealand: Helping each other with coding language
+11/15/16, 5:09 PM - ‪+55 27 99762-7395‬: I want to join other American groups
+11/15/16, 5:10 PM - steven newzealand: Oh
+11/15/16, 5:11 PM - ‪+91 81227 70479‬: You from?
+11/15/16, 5:11 PM - steven newzealand: I'm from The Netherlands
+11/15/16, 5:11 PM - ‪+55 27 99762-7395‬: I brasileiro
+11/15/16, 5:12 PM - ‪+91 81227 70479‬: You the admin? Dutch guy
+11/15/16, 5:12 PM - steven newzealand: I'm an admin, yes, but I'm not the creator
+11/15/16, 5:13 PM - ‪+91 81227 70479‬: How old are you?
+11/15/16, 5:13 PM - steven newzealand: Currently 17 years old
+11/15/16, 5:13 PM - ‪+91 81227 70479‬: Experiece level?
+11/15/16, 5:13 PM - steven newzealand: Level 5
+11/15/16, 5:14 PM - ‪+91 81227 70479‬: Anyone here >20  yrs old?
+11/15/16, 5:14 PM - steven newzealand: I need to go. Speak to you all later
+11/15/16, 5:35 PM - ‪+91 98299 05512‬: 18here
+11/15/16, 5:37 PM - ‪+91 79953 58980‬ joined using this group's invite link
+11/15/16, 5:37 PM - ‪+91 81227 70479‬: Very close to 20
+11/15/16, 5:39 PM - ‪+880 1759-998041‬: 13 here
+11/15/16, 5:39 PM - ‪+91 79953 58980‬: What's the question? I'm new to this group.
+11/15/16, 5:40 PM - ‪+880 1759-998041‬: Is there anyone 20> in this group
+11/15/16, 5:40 PM - ‪+91 81227 70479‬: Your age? Nothing else
+11/15/16, 5:40 PM - ‪+880 1759-998041‬: absolutely
+11/15/16, 5:40 PM - ‪+91 79953 58980‬: Oh! I'm 14
+11/15/16, 5:40 PM - ‪+880 1759-998041‬: Do u know Css fully
+11/15/16, 5:40 PM - steven newzealand: So I'm not the youngest here
+11/15/16, 5:40 PM - ‪+91 81227 70479‬: Im 21
+11/15/16, 5:41 PM - ‪+91 81227 70479‬: I know css.  Now bootstrap and django
+11/15/16, 5:41 PM - ‪+91 79953 58980‬: Nope.. I am learning HTML and JavaScript simultaneously then I will learn CSS
+11/15/16, 5:41 PM - steven newzealand: I know HTML, not learning CSS
+11/15/16, 5:42 PM - ‪+91 98299 05512‬: Same bro
+11/15/16, 5:42 PM - steven newzealand: Now**
+11/15/16, 5:42 PM - ‪+880 1759-998041‬: bye, Study time
+11/15/16, 5:42 PM - ‪+880 1759-998041‬: sorry
+11/15/16, 5:43 PM - ‪+91 79953 58980‬: It's so good to see that so many programmers from different parts of the world are united
+11/15/16, 5:43 PM - steven newzealand: I'm just new to programming, I started like last Friday
+11/15/16, 5:43 PM - ‪+880 1759-998041‬: We are not programmer,Not yet
+11/15/16, 5:43 PM - ‪+91 79953 58980‬: Yup. Me too. And tomorrow I have computer exam. So.... Yeah!!
+11/15/16, 5:43 PM - ‪+880 1759-998041‬: Cool
+11/15/16, 5:44 PM - ‪+91 79953 58980‬: Yes but we r learning.
+11/15/16, 5:44 PM - ‪+880 1759-998041‬: Yes we are
+11/15/16, 5:44 PM - steven newzealand: We are.
+11/15/16, 5:44 PM - ‪+91 81227 70479‬: But the thing is everyone is sooo young..
+11/15/16, 5:44 PM - ‪+91 79953 58980‬: I too am an beginner
+11/15/16, 5:44 PM - ‪+91 79953 58980‬: *a
+11/15/16, 5:44 PM - steven newzealand: The younger the better. In that way we can be successful programmers one day
+11/15/16, 5:45 PM - ‪+880 1759-998041‬: Programming is not about experience, its about how better you can do
+11/15/16, 5:45 PM - ‪+91 98299 05512‬: ✌🏻
+11/15/16, 5:45 PM - ‪+91 79953 58980‬: Yeah... Who knows someone between us may become a billionaire or a founder of a multi millionare company
+11/15/16, 5:45 PM - ‪+91 79953 58980‬: 👍🏻
+11/15/16, 5:46 PM - steven newzealand: In that case we should keep this group😄👍
+11/15/16, 5:46 PM - ‪+91 81227 70479‬: After getting enough knowledge and resorces which needs experience kiddo
+11/15/16, 5:46 PM - ‪+91 81227 70479‬: After getting enough knowledge and resorces which needs experience kiddo
+11/15/16, 5:46 PM - ‪+91 79953 58980‬: 👍🏻
+11/15/16, 5:47 PM - ‪+91 81227 70479‬: North indian?
+11/15/16, 5:47 PM - ‪+880 1759-998041‬: Yahoo, Im from Bangladesh,
+11/15/16, 5:48 PM - ‪+91 79953 58980‬: I'm from West Bengal.
+11/15/16, 5:48 PM - steven newzealand: Yahoo, Dutch guy right here
+11/15/16, 5:48 PM - ‪+91 79953 58980‬: 😍
+11/15/16, 5:49 PM - ‪+91 81227 70479‬: Your name reminds mortaza (cricket)
+11/15/16, 5:49 PM - ‪+91 79953 58980‬: Hehe... I was going to say that...
+11/15/16, 5:49 PM - ‪+91 79953 58980‬: Nice bowler
+11/15/16, 5:49 PM - ‪+880 1759-998041‬: nope Its, Not bin mortaza. Im not a cricketer
+11/15/16, 5:50 PM - ‪+880 1759-998041‬: Bye
+11/15/16, 5:50 PM - ‪+91 79953 58980‬: Bye! 👋🏻
+11/15/16, 5:50 PM - ‪+91 79953 58980‬: 👋🏻
+11/15/16, 5:51 PM - steven newzealand: I need to go as well. I'm having exercise for my exams
+11/15/16, 5:59 PM - ‪+91 96083 85176‬: Hey Sandeep
+Welcome
+11/15/16, 6:00 PM - ‪+91 96083 85176‬: Welcome Rishav Do you remember me?
+11/15/16, 6:01 PM - ‪+91 79953 58980‬: Ummm.... I don't know your name
+11/15/16, 6:01 PM - ‪+91 96083 85176‬: I am too bengali
+11/15/16, 6:01 PM - ‪+91 96083 85176‬: I am Sandeep Chatterjee
+11/15/16, 6:01 PM - ‪+91 79953 58980‬: Oh! Hi!
+11/15/16, 6:02 PM - ‪+91 96083 85176‬: What happened to our group Sandeep
+11/15/16, 6:02 PM - ‪+91 79953 58980‬: But I can't talk now. I'm having my exam's tomorrow.
+11/15/16, 6:02 PM - ‪+91 96083 85176‬: You replied the while loop problem
+11/15/16, 6:02 PM - ‪+91 79953 58980‬: Yeah I know.... I recognised
+11/15/16, 6:02 PM - ‪+91 96083 85176‬: Ok no problem me too is preparing for exams
+11/15/16, 6:03 PM - ‪+91 79953 58980‬: Bye!
+11/15/16, 6:03 PM - ‪+91 79953 58980‬: Ttyl
+11/15/16, 6:03 PM - ‪+91 96083 85176‬: Thick ache bye
+11/15/16, 6:04 PM - ‪+91 96083 85176‬: Ungal Tamil Nannu Jharkhandlu
+11/15/16, 6:13 PM - Naveen DA: yes I am
+11/15/16, 7:13 PM - Naveen DA: @919698932369 happy birthday vimalan
+11/15/16, 7:19 PM - ‪+91 79953 58980‬: Although I don't know you but still, happy birthday... @919698932369
+11/15/16, 7:28 PM - ‪+55 27 99762-7395‬: <Media omitted>
+11/15/16, 7:31 PM - ‪+91 96083 85176‬: Bom dia amigo
+11/15/16, 7:32 PM - ‪+55 27 99762-7395‬: Bom dia sandeep
+11/15/16, 7:32 PM - ‪+91 96083 85176‬: Ok
+11/15/16, 7:33 PM - ‪+213 664 54 94 46‬ joined using this group's invite link
+11/15/16, 7:34 PM - ‪+91 79953 58980‬: @5527997627395 heyya! I am in India and it's night 7:34.... Anyways.... Good morning..
+11/15/16, 7:35 PM - ‪+55 27 99762-7395‬: Goor night😁
+11/15/16, 7:35 PM - ‪+91 79953 58980‬: 😝😝
+11/15/16, 7:35 PM - ‪+91 96083 85176‬: Hola
+11/15/16, 7:38 PM - ‪+91 96083 85176‬: Why do you always watch football when sending voice 😀
+11/15/16, 7:38 PM - ‪+55 27 99762-7395‬: Not is foitbal
+11/15/16, 7:39 PM - ‪+91 96083 85176‬: Pirrantanal warattkal
+11/15/16, 7:39 PM - ‪+55 27 99762-7395‬: Iss films movie
+11/15/16, 7:39 PM - ‪+91 96083 85176‬: Isn't football popular in Brazil
+11/15/16, 7:40 PM - ‪+91 79953 58980‬: Its like a religion there.. isn't it? @tacio
+11/15/16, 7:40 PM - Vimalan.D: Thank u buddy
+11/15/16, 7:41 PM - ‪+55 27 99762-7395‬: Football. Is the sport favorite of brasil
+11/15/16, 7:41 PM - ‪+91 96083 85176‬: Nallvalttukal
+11/15/16, 7:42 PM - Vimalan.D: Thank u
+11/15/16, 7:43 PM - Vimalan.D: Sandeep
+11/15/16, 7:44 PM - ‪+91 96083 85176‬: You're welcome.
+11/15/16, 7:52 PM - ‪+255 713 124 491‬: 20+😊
+11/15/16, 8:03 PM - ‪+91 81227 70479‬: Hey, thank yiu
+11/15/16, 8:04 PM - ‪+91 81227 70479‬: So members with 20+ years old say your name along with msg
+11/15/16, 8:23 PM - ‪+213 664 54 94 46‬ left
+11/15/16, 9:00 PM - ‪+255 713 124 491‬: My name has been written alredy @918122770479
+11/15/16, 9:01 PM - steven newzealand: 👍
+11/15/16, 9:02 PM - ‪+255 713 124 491‬: Looks like an the only one from my country.
+11/15/16, 9:02 PM - ‪+255 713 124 491‬: Hey Team tsup
+11/15/16, 9:02 PM - ‪+91 79953 58980‬: Where are you from?
+11/15/16, 9:03 PM - steven newzealand: Not much. Bored
+11/15/16, 9:03 PM - ‪+255 713 124 491‬: Ow yeh
+11/15/16, 9:03 PM - ‪+255 713 124 491‬: Tanzania
+11/15/16, 9:03 PM - ‪+255 713 124 491‬: And u?
+11/15/16, 9:04 PM - ‪+91 79953 58980‬: India😍❤❤
+11/15/16, 9:04 PM - ‪+91 79953 58980‬: Nice place.... Tanzania...
+11/15/16, 9:04 PM - ‪+255 713 124 491‬: Oh I knw few people from there😃
+11/15/16, 9:05 PM - ‪+255 713 124 491‬: Yes, a very nice one. Ur mostly welcome
+11/15/16, 9:15 PM - ‪+91 81227 70479‬: You are mdaki?   is that ur name? From?
+11/15/16, 9:17 PM - ‪+255 713 124 491‬: Yes its from SoloLearn
+11/15/16, 9:23 PM - ‪+91 79953 58980‬: @918122770479 .. tumi ki jigesh korle aar o ki jovab dilo... Tumi nishchoi o kothai thake jigesh korechhiley na? O solo learn e thake... Lol! 😂😂
+11/15/16, 9:24 PM - ‪+91 81227 70479‬: Dude im not good with hindi since it is not my mothertoungue so translate
+11/15/16, 9:25 PM - ‪+91 79953 58980‬: I spoke in Bengali... @918122770479 . You told me that u r a Bengali
+11/15/16, 9:25 PM - ‪+55 27 99762-7395‬: I am  Brazilian, 24 age
+11/15/16, 9:25 PM - ‪+55 27 99762-7395‬: Man
+11/15/16, 9:26 PM - ‪+91 79953 58980‬: @918122770479 oops sorry.... I meant the other sandeep
+11/15/16, 9:26 PM - ‪+91 79953 58980‬: Sorry bro
+11/15/16, 9:26 PM - ‪+91 79953 58980‬: That's not meant for u
+11/15/16, 9:26 PM - ‪+91 79953 58980‬: I'm really sorry...
+11/15/16, 9:27 PM - ‪+91 81227 70479‬: That was not me..i think it is sandeep chattergi..im sandeep balachandran
+11/15/16, 9:27 PM - ‪+91 79953 58980‬: Yes yes... I'm sorry
+11/15/16, 9:27 PM - ‪+91 79953 58980‬: Really sorry
+11/15/16, 9:27 PM - ‪+91 81227 70479‬: Np
+11/15/16, 9:34 PM - ‪+91 96083 85176‬: Ami eshe gechi
+11/15/16, 9:35 PM - ‪+91 96083 85176‬: Konta bujhte parlam na
+11/15/16, 9:35 PM - ‪+91 79953 58980‬: Kichhu nq
+11/15/16, 9:35 PM - ‪+91 96083 85176‬: Ok
+11/15/16, 9:35 PM - ‪+62 856-0722-2906‬: Hello all nice tu meet you 😬✌🏻
+11/15/16, 9:36 PM - ‪+91 96083 85176‬: Welcome
+11/15/16, 9:36 PM - ‪+62 856-0722-2906‬: 😀
+11/15/16, 9:38 PM - ‪+91 96083 85176‬: Selamat detang rzaldi
+11/15/16, 9:39 PM - ‪+255 713 124 491‬: How many languages  allowed in this group,,,
+11/15/16, 9:39 PM - ‪+62 856-0722-2906‬: I don't knw 😔
+11/15/16, 9:40 PM - ‪+91 79953 58980‬: Infinity
+11/15/16, 9:40 PM - ‪+255 713 124 491‬: Bt i prefer English
+11/15/16, 9:40 PM - ‪+91 96083 85176‬: It would convenient for us if you use english
+11/15/16, 9:40 PM - ‪+62 856-0722-2906‬: May be using international leanguage ? 😅
+11/15/16, 9:41 PM - ‪+91 96083 85176‬: You mean programming language or human
+11/15/16, 9:41 PM - ‪+255 713 124 491‬: And Indian is among of them?
+11/15/16, 9:41 PM - ‪+49 1575 2196506‬: I prefer english.
+11/15/16, 9:41 PM - ‪+62 856-0722-2906‬: I prefer english.
+11/15/16, 9:41 PM - ‪+91 96083 85176‬: Yes but do you know any Indian language
+11/15/16, 9:41 PM - ‪+62 856-0722-2906‬: Too
+11/15/16, 9:41 PM - ‪+255 713 124 491‬: 😃😃
+11/15/16, 9:42 PM - ‪+62 856-0722-2906‬: ☝🏻👍🏻
+11/15/16, 9:42 PM - ‪+255 713 124 491‬: And thats why, we need to use English Mr Numbers 😊
+11/15/16, 9:42 PM - ‪+49 1575 2196506‬: No i do not no any indian language
+11/15/16, 9:43 PM - ‪+255 713 124 491‬: Me either
+11/15/16, 9:43 PM - ‪+255 713 124 491‬: +49, you ok?
+11/15/16, 9:43 PM - ‪+62 856-0722-2906‬: I prefer using english too.
+11/15/16, 9:43 PM - ‪+91 96083 85176‬: Indian is among them Google it how many languages are there in India you will be amazed to see it is more than 200 however they are different accent actually it is 50
+Even constitution process 15 lang
+11/15/16, 9:44 PM - ‪+255 713 124 491‬: Thumbs up 👍🏾
+11/15/16, 9:44 PM - ‪+91 79953 58980‬: Alright.... 
+See...
+Indian people or the people of one's country can talk to each other in their language. But if you want to ask or speak to all the members of the group then u must say in English...😬
+11/15/16, 9:45 PM - ‪+62 856-0722-2906‬: 👍🏻
+11/15/16, 9:45 PM - ‪+255 713 124 491‬: Well, my language is the 7th one
+11/15/16, 9:45 PM - ‪+62 856-0722-2906‬: Bright idea 😀
+11/15/16, 9:45 PM - ‪+91 96083 85176‬: 👍
+11/15/16, 9:45 PM - ‪+91 79953 58980‬: Shall that be made a rule?
+11/15/16, 9:45 PM - ‪+91 96083 85176‬: I don't know
+11/15/16, 9:45 PM - ‪+62 856-0722-2906‬: Maybe not now
+11/15/16, 9:46 PM - ‪+255 713 124 491‬: What do u suggest, we make one? 😊
+11/15/16, 9:46 PM - ‪+62 856-0722-2906‬: 1 rule eh?
+11/15/16, 9:46 PM - ‪+91 96083 85176‬: Ok what programing lang is your favourite
+11/15/16, 9:46 PM - ‪+91 79953 58980‬: Yup... The admins should do it
+11/15/16, 9:46 PM - ‪+255 713 124 491‬: 👍🏾
+11/15/16, 9:46 PM - ‪+62 856-0722-2906‬: 🤘🏻yeah
+11/15/16, 9:47 PM - ‪+91 98299 05512‬: Guyz
+11/15/16, 9:47 PM - ‪+91 79953 58980‬: Java... 😍❤❤💗💗
+11/15/16, 9:47 PM - ‪+91 79953 58980‬: But I know C# also....
+11/15/16, 9:47 PM - steven newzealand: What rule?
+11/15/16, 9:47 PM - ‪+91 98299 05512‬: Which editor you use to create html files
+11/15/16, 9:47 PM - ‪+255 713 124 491‬: So no English no coding how about that🤔
+11/15/16, 9:47 PM - ‪+91 96083 85176‬: There are talking about speaking language here
+11/15/16, 9:48 PM - ‪+62 856-0722-2906‬: Using english may be? 😊
+11/15/16, 9:48 PM - ‪+91 96083 85176‬: I use notepad ++
+11/15/16, 9:48 PM - ‪+91 79953 58980‬: The official language of this group shall be English.....
+And the people of one's country can talk to its countrymen by their language preferred
+11/15/16, 9:48 PM - steven newzealand: Ok, so speaking English is now a must, is that okay w/ you?
+11/15/16, 9:49 PM - ‪+91 79953 58980‬: Yup.... Totally
+11/15/16, 9:49 PM - ‪+255 713 124 491‬: Absolutely 😋
+11/15/16, 9:49 PM - ‪+91 79953 58980‬: Does anyone have an objection?
+11/15/16, 9:49 PM - ‪+91 96083 85176‬: No I don't have objection
+11/15/16, 9:50 PM - ‪+91 79953 58980‬: Everyone here knows English right?
+11/15/16, 9:50 PM - ‪+255 713 124 491‬: Nop
+11/15/16, 9:50 PM - ‪+255 713 124 491‬: Yes
+11/15/16, 9:50 PM - steven newzealand: I do speak English🙋‍♂
+11/15/16, 9:50 PM - ‪+91 96083 85176‬: Surely they have English that's how they use sololearn
+11/15/16, 9:50 PM - ‪+91 79953 58980‬: 👍🏻
+11/15/16, 9:51 PM - Naveen DA: guys please avoid un wanted discussion 😬
+11/15/16, 9:51 PM - steven newzealand: 😂👍
+11/15/16, 9:51 PM - ‪+255 713 124 491‬: 😊😊
+11/15/16, 9:52 PM - ‪+91 96083 85176‬: I think there is problem of time as well some have noon some night
+But that's no problem we can see the messages later here
+11/15/16, 9:52 PM - steven newzealand: Yep
+11/15/16, 9:52 PM - ‪+91 96083 85176‬: Yes that's right
+11/15/16, 9:53 PM - steven newzealand: Okay so, Sandeep C.
+11/15/16, 9:53 PM - ‪+255 713 124 491‬: On your side is it noon or night
+11/15/16, 9:54 PM - ‪+91 96083 85176‬: Night but we have flooded the chats with these discussions you tell you have any question in your mind
+11/15/16, 9:55 PM - steven newzealand: Sandeep, do you think that this will fit me:
+
+Webdesign at IT and Technology
+11/15/16, 9:57 PM - ‪+255 713 124 491‬: Yes i have, on HTML button, how can i change its color.
+11/15/16, 9:58 PM - ‪+91 96083 85176‬: Use CSS button{
+Background: green;
+}
+11/15/16, 9:58 PM - ‪+91 96083 85176‬: That's not possible in html
+11/15/16, 9:58 PM - ‪+91 96083 85176‬: That's why we need CSS there
+11/15/16, 9:58 PM - ‪+255 713 124 491‬: Ok, good explanation.
+11/15/16, 9:58 PM - steven newzealand: Yea. I got it. Wait, lemme try
+11/15/16, 9:59 PM - ‪+255 713 124 491‬: Those things work only on CSS right
+11/15/16, 10:01 PM - ‪+91 96083 85176‬: Even it works on html CSS is used it had advantages but html also have it because because there wasn't css
+11/15/16, 10:02 PM - ‪+91 96083 85176‬: Any more questions like that
+11/15/16, 10:02 PM - ‪+255 713 124 491‬: Ok Mr let me try work it out😊
+BTW thank you
+11/15/16, 10:02 PM - ‪+255 713 124 491‬: Mayb later😊
+11/15/16, 10:02 PM - ‪+91 94441 68856‬ joined using this group's invite link
+11/15/16, 10:04 PM - ‪+91 96083 85176‬: Yes because you need to know how to use CSS so here is quick way
+<Button style="background: green ;
+"> Click </button>
+11/15/16, 10:04 PM - ‪+91 96083 85176‬: I think that's good for you
+11/15/16, 10:05 PM - steven newzealand: Thanks
+11/15/16, 11:18 PM - ‪+91 96219 46192‬: Hi friends
+Good night
+🌍🌍
+11/15/16, 11:18 PM - ‪+91 79953 58980‬: Good night from India...
+11/15/16, 11:19 PM - ‪+255 713 124 491‬: Good night from TANZANIA 😊
+11/15/16, 11:21 PM - ‪+91 96083 85176‬: Ok we sleep bears hibernate and eyes shut down but computer all three💻
+11/15/16, 11:23 PM - ‪+91 96083 85176‬: 😴🐻👀 good night and don't dream of java and c# have sweet ones
+11/15/16, 11:23 PM - ‪+91 79953 58980‬: 👍🏻👍🏻😂
+11/15/16, 11:25 PM - ‪+91 96083 85176‬: We will see us tomorrow
+11/15/16, 11:38 PM - ‪+212 618-486455‬ joined using this group's invite link
+11/16/16, 9:57 AM - ‪+91 88923 18807‬ joined using this group's invite link
+11/16/16, 9:57 AM - ‪+962 7 8082 9974‬ joined using this group's invite link
+11/16/16, 9:57 AM - ‪+962 7 8082 9974‬ left
+11/16/16, 2:56 AM - ‪+962 7 8082 9974‬: <Media omitted>
+11/16/16, 7:07 AM - ‪+91 79953 58980‬: !-- --
+11/16/16, 7:41 AM - ‪+91 99761 69650‬: https://youtu.be/eFApVq2PFWQ
+11/16/16, 8:03 AM - ‪+91 96083 85176‬: Answer <!-- firs...->
+11/16/16, 8:05 AM - ‪+91 96083 85176‬: <!-comment -->
+11/16/16, 8:06 AM - ‪+91 96083 85176‬: Is that your channel naveen
+11/16/16, 8:12 AM - ‪+91 96083 85176‬: You could see if you go back
+11/16/16, 10:18 AM - ‪+880 1759-998041‬: dont worry in next generation we will able to use english as programming language
+11/16/16, 12:33 PM - ‪+91 98299 05512‬: Wew
+11/16/16, 12:36 PM - steven newzealand: Good morning/afternoon everyone
+11/16/16, 12:41 PM - ‪+91 94441 68856‬ left
+11/16/16, 2:12 PM - ‪+91 96083 85176‬: I reached to level 9
+11/16/16, 2:13 PM - ‪+91 96083 85176‬: https://www.sololearn.com/profile/2139727/
+11/16/16, 2:13 PM - ‪+91 96083 85176‬: 4000+ XP points
+11/16/16, 2:14 PM - ‪+91 96083 85176‬: Hi there programmers
+11/16/16, 2:14 PM - ‪+91 96083 85176‬: Is there anyone
+11/16/16, 2:20 PM - ‪+91 96083 85176‬: Hey dhruv are you *there*
+11/16/16, 2:23 PM - ‪+91 98299 05512‬: Yes day
+11/16/16, 2:23 PM - ‪+91 98299 05512‬: Say**
+11/16/16, 2:30 PM - steven newzealand: Hey everyone. I'm in recess again😄👍
+11/16/16, 3:07 PM - ‪+91 91644 16922‬ joined using this group's invite link
+11/16/16, 3:42 PM - ‪+91 88880 19191‬ left
+11/16/16, 4:06 PM - ‪+55 27 99762-7395‬: <Media omitted>
+11/16/16, 4:06 PM - ‪+91 96083 85176‬: Good morning
+11/16/16, 4:07 PM - ‪+55 27 99762-7395‬: <Media omitted>
+11/16/16, 4:07 PM - ‪+91 96083 85176‬: Your TV Is off now
+11/16/16, 4:08 PM - ‪+91 96083 85176‬: Thank you
+11/16/16, 4:08 PM - ‪+55 27 99762-7395‬: <Media omitted>
+11/16/16, 6:30 PM - sivanesh joined using this group's invite link
+11/16/16, 6:36 PM - ‪+254 737 923774‬ joined using this group's invite link
+11/16/16, 7:01 PM - Naveen DA: anyone there
+11/16/16, 7:02 PM - steven newzealand: Meeeeh
+11/16/16, 7:02 PM - Naveen DA: hey setev
+11/16/16, 7:03 PM - steven newzealand: Steven, it's Steven. Not setev😜
+11/16/16, 7:03 PM - Naveen DA: yaeh
+11/16/16, 7:11 PM - ‪+91 98299 05512‬: Yes
+11/16/16, 7:56 PM - Ragupathi Vv joined using this group's invite link
+11/16/16, 9:12 PM - Naveen DA: why slience ?
+11/16/16, 9:37 PM - steven newzealand: I don't know. I guess no one has a question
+11/16/16, 9:42 PM - Naveen DA: mmm have i question
+11/16/16, 9:43 PM - ‪+91 98299 05512‬: Guyz 🙄 any idea for webpage i need to pratice
+11/16/16, 9:44 PM - Naveen DA: develope social site like me it will teach lot of things
+11/16/16, 9:44 PM - steven newzealand: I've got an idea
+11/16/16, 9:44 PM - Naveen DA: even you want my code if you want my code i will mail you
+11/16/16, 9:44 PM - ‪+91 98299 05512‬: Which site you have ? Bro
+11/16/16, 9:45 PM - steven newzealand: You can design a webpage of your choice for our website of my YouTube team😄👍
+11/16/16, 9:46 PM - Naveen DA: naveen.eu5.org/lyk.html
+11/16/16, 11:27 PM - steven newzealand: Guys I will not be able to chat tonight
+11/16/16, 11:28 PM - ‪+62 856-0722-2906‬: Need sleep 😭
+11/16/16, 11:29 PM - steven newzealand: No, a classmate died last week of cancer...
+
+I'm going to school tonight to honor him
+11/16/16, 11:29 PM - ‪+62 856-0722-2906‬: Mm, tomorrow I have class to
+11/16/16, 11:30 PM - steven newzealand: Ok
+11/16/16, 11:31 PM - ‪+62 856-0722-2906‬: 👌🏻
+11/16/16, 11:33 PM - ‪+91 79953 58980‬: That's sad... My deepest condolences to his family and
+11/16/16, 11:35 PM - ‪+62 856-0722-2906‬: Then?
+11/16/16, 11:43 PM - ‪+91 98299 05512‬: Sorry to hear that 😞 rip
+11/16/16, 11:44 PM - ‪+91 88923 18807‬: Hey ..
+11/16/16, 11:44 PM - ‪+91 88923 18807‬: Dhruv where ur from
+11/16/16, 11:44 PM - ‪+91 98299 05512‬: Jaipur, Rajasthan
+11/16/16, 11:45 PM - ‪+91 88923 18807‬: Nc  to know.😄
+11/17/16, 7:55 AM - ‪+212 618-486455‬ left
+11/17/16, 1:11 AM - steven newzealand: He is buried at our school tonight.😔
+11/17/16, 2:00 AM - ‪+91 88923 18807‬: I've completed HTML Overview on @SoloLearn http://www.sololearn.com/app/html/
+11/17/16, 8:49 AM - ‪+91 81227 70479‬: Java  --application--- need to get authentication details and post comments on the specified page or website--without using the website directly-by just using the tool .. working on it. any  suggestions or comments are appreciable
+11/17/16, 8:49 AM - ‪+91 88923 18807‬: I've completed CSS Working with Text on @SoloLearn http://www.sololearn.com/app/css/
+11/17/16, 3:47 PM - ‪+91 96083 85176‬: That's sad...
+11/17/16, 4:31 PM - Naveen DA: My classclassmate also today died due to accident 😭
+11/17/16, 4:33 PM - ‪+91 88923 18807‬ left
+11/17/16, 5:53 PM - ‪+91 91271 53435‬ joined using this group's invite link
+11/17/16, 6:16 PM - ‪+91 81227 70479‬: So anyone? No one?
+11/17/16, 6:19 PM - ‪+91 81227 70479‬: Anyway if anyone intetested on java or have ideas but dont know how to implement..just join      https://chat.whatsapp.com/CBGQ1CLwm7B5QWYXjQjJRp
+11/17/16, 7:11 PM - ‪+91 72778 00723‬: <Media omitted>
+11/17/16, 7:47 PM - Naveen DA: 👌🏻
+11/17/16, 8:45 PM - ‪+63 908 021 5197‬ joined using this group's invite link
+11/17/16, 10:55 PM - ‪+55 83 8621-9874‬ joined using this group's invite link
+11/17/16, 10:59 PM - ‪+55 83 8621-9874‬: Hello, can anyone help me by sending the most important codes to an HTML? I do not have much knowledge in this case, I want to know the basics.
+11/17/16, 11:00 PM - steven newzealand: I can. Just speak to me in private chat, and I'll come to you in a minute
+11/17/16, 11:00 PM - ‪+91 98299 05512‬: W3school ✌🏻
+11/17/16, 11:01 PM - steven newzealand: Oh yeah also a possibility
+11/17/16, 11:01 PM - ‪+91 98299 05512‬: Any help about specific tags ask here
+11/17/16, 11:02 PM - ‪+91 98299 05512‬: There are a lots of tags so we cant say here refer to w3school if any prob. Occured ask here
+11/17/16, 11:04 PM - ‪+91 79953 58980‬: Guys, don't laugh but is there any way to run a Java standalone application in an webpage... I mean can we embed a Java standalone application in an webpage? A webpage that is created by me only...
+11/17/16, 11:10 PM - ‪+91 79953 58980‬: 😬😬
+11/17/16, 11:10 PM - ‪+91 79953 58980‬: ?
+11/17/16, 11:10 PM - ‪+91 79953 58980‬: 😰
+11/17/16, 11:15 PM - ‪+49 1575 2196506‬: You can try it using a java-applet i think.
+11/17/16, 11:16 PM - ‪+91 79953 58980‬: I don't want to use an applet. I want an standalone application to run in an webpage
+11/17/16, 11:18 PM - ‪+49 1575 2196506‬: Maybe if you run the standalone through a different server and implement it  on you page?
+11/18/16, 7:29 AM - ‪+33 6 04 42 67 94‬ joined using this group's invite link
+11/18/16, 7:29 AM - ‪+54 9 341 320-8245‬ joined using this group's invite link
+11/18/16, 2:03 AM - ‪+254 737 923774‬: Can the owner of this(  http://naveen.eu5.org/lyk.html) link please send me its html and css through my e-mail. That is,eddy1ogola1@Gmail.comPleeease!!😶😶😕
+11/18/16, 2:06 AM - ‪+254 737 923774‬: Can the owner of this( http://naveen.eu5.org/lyk.html) link please send to me the html and css via e-mail at eddy1ogola1@Gmail.com. It be of lots of help.pleease😶😶😶😶
+11/18/16, 7:35 AM - Naveen DA: but the code in developing stage any i will send you
+11/18/16, 8:15 AM - Naveen DA: I send the mail 😊
+11/18/16, 9:17 AM - steven newzealand: Good morning🖖
+11/18/16, 9:17 AM - steven newzealand: It's like 4AM here, I can't sleep
+11/18/16, 11:21 AM - ‪+255 713 124 491‬ left
+11/18/16, 9:25 AM - ‪+54 9 341 320-8245‬: 0:54 in Argentina 😴
+11/18/16, 9:25 AM - steven newzealand: Oh I'm sorry
+11/18/16, 9:28 AM - ‪+54 9 341 320-8245‬: No problem. I'm awake and it's silenced ("silenced" I don't know if that's the word 😬)
+11/18/16, 9:28 AM - steven newzealand: Oh okay
+11/18/16, 9:29 AM - steven newzealand: It is
+11/18/16, 10:09 AM - ‪+62 856-0722-2906‬: Sout
+11/18/16, 7:48 PM - ‪+91 96775 15133‬ joined using this group's invite link
+11/18/16, 8:17 PM - steven newzealand: Does anyone have an idea for an webpage that I can make out of HTML? No CSS included, please
+11/18/16, 8:18 PM - Naveen DA: then your website look like skeleton 💀
+11/18/16, 8:20 PM - steven newzealand: I don't really care.... The editor I got doesn't have CSS
+11/18/16, 8:20 PM - ‪+91 98299 05512‬: Didnt get you
+11/18/16, 8:20 PM - Naveen DA: what editor you have
+11/18/16, 8:21 PM - ‪+91 98299 05512‬: We can even use css in notepad by microsoft windows 😂 css are just properties
+11/18/16, 8:21 PM - steven newzealand: I've got Visual Studio Code from Microsoft
+11/18/16, 8:21 PM - Naveen DA: it shows css code
+11/18/16, 8:21 PM - Naveen DA: i am also use it
+11/18/16, 8:22 PM - steven newzealand: oh okay. but how do i do the css then? I can't put it in the HTML, cuz  don't get that
+11/18/16, 8:26 PM - ‪+54 9 341 320-8245‬: <head>
+  <style>
+    CSS here
+  </style>
+</head>
+11/18/16, 8:26 PM - steven newzealand: Oh okay, thank you
+11/18/16, 8:27 PM - ‪+91 98299 05512‬: Use <style> for internal css 
+
+Style="" for inline 
+
+And for external
+<Link rel="stylesheet" type="text/css" href="style.css">
+11/18/16, 8:27 PM - steven newzealand: thanks
+11/18/16, 8:30 PM - Naveen DA: guys anyone know how to register *whatsAPI*?
+11/18/16, 8:30 PM - steven newzealand: nope
+11/18/16, 10:10 PM - ‪+91 98196 63829‬ joined using this group's invite link
+11/18/16, 9:57 PM - ‪+91 98196 63829‬: Hi iam new at here
+11/18/16, 9:57 PM - steven newzealand: Hi, and welcome ±'
+11/18/16, 9:57 PM - steven newzealand: :)
+11/18/16, 9:58 PM - ‪+91 98196 63829‬: I know html and js very well.... I am starting at java applets
+11/18/16, 9:58 PM - steven newzealand: Me too, I know HTML and a little bit of CSS
+11/18/16, 9:59 PM - ‪+91 98196 63829‬: Who are you a kid or a man
+11/18/16, 9:59 PM - steven newzealand: I'm 17 years old, so I'm currently pubescent
+11/18/16, 10:01 PM - ‪+91 98196 63829‬: I am a teenager of india🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
+11/18/16, 10:03 PM - ‪+91 98299 05512‬: Lulz same
+11/18/16, 10:03 PM - steven newzealand: I'm from The Netherlands🇳🇱🇳🇱🇳🇱🇳🇱🇳🇱🇳🇱🇳🇱🇳🇱
+11/18/16, 10:05 PM - ‪+55 83 8621-9874‬: I'm from Brazil🇧🇷🇧🇷🇧🇷🇧🇷
+11/19/16, 12:03 PM - ‪+91 96083 85176‬: Oh that's sad to know
+11/19/16, 12:04 PM - ‪+91 96083 85176‬: Are you from punjab
+11/19/16, 12:07 PM - ‪+91 96083 85176‬: Yes that's called java applet that's close to the thing you want
+11/19/16, 12:09 PM - ‪+91 96083 85176‬: But chrome.and other chromium based browsers have stopped support for this. Flash replaced some of its features and now they are about to remove support for flash and bring html 5
+11/19/16, 12:11 PM - ‪+91 96083 85176‬: Naveenda Will you please forward it too me at SandeepChatterjee66@gmail.com I don't know how social sites actually work and I want to learn that
+11/19/16, 12:13 PM - ‪+91 96083 85176‬: I just want to see the php code I am new to it. Please send it you can send the link at GitHub too as per your convinience
+11/19/16, 12:39 PM - ‪+91 96083 85176‬: Yes there are three ways as dhruv said
+<Link rel=stylesheet href=path.css>
+Used for general style
+<Style>
+Page specific codes
+</Style>
+<Div style="inline CSS styl">
+11/19/16, 1:12 PM - ‪+63 908 021 5197‬ left
+11/19/16, 2:16 PM - ‪+49 1575 2196506‬: Can someone explain me how I create temporary documents via SSI and how it works?
+11/19/16, 2:18 PM - ‪+91 96083 85176‬: No I have no idea
+11/19/16, 3:53 PM - ‪+254 737 923774‬: Thanks to Naveen for sending the code.😊😊
+11/19/16, 4:00 PM - ‪+91 96083 85176‬: Can you please forward it too me 😀
+11/19/16, 4:30 PM - Naveen DA: http://www.mediafire.com/file/rvxvi55waoiz96m/lyk.zip
+11/19/16, 4:30 PM - ‪+91 96083 85176‬: Thanks nanri Naveenda
+11/19/16, 4:30 PM - Naveen DA: no need to mention guys 😜
+11/19/16, 4:31 PM - ‪+91 96083 85176‬: 😀
+11/19/16, 4:31 PM - Naveen DA: but i already send to in your mail😎
+11/19/16, 4:32 PM - ‪+91 96083 85176‬: Ok
+11/19/16, 6:02 PM - ‪+91 99761 69650‬: <Media omitted>
+11/19/16, 6:04 PM - ‪+62 852-5660-0801‬: Form, input, form?
+11/19/16, 6:05 PM - ‪+91 99761 69650‬: What's answer
+11/19/16, 6:05 PM - ‪+91 96083 85176‬: Form
+Input form andi is right
+11/19/16, 6:06 PM - ‪+91 79953 58980‬: form,input,input,form.
+11/19/16, 6:06 PM - ‪+91 79953 58980‬: form,input,input,form
+11/19/16, 6:07 PM - ‪+91 99761 69650‬: Answer me
+11/19/16, 6:07 PM - ‪+91 79953 58980‬: That's the answer.... form,input,input,form
+11/19/16, 6:09 PM - ‪+91 96083 85176‬: <Media omitted>
+11/19/16, 6:26 PM - ‪+91 99761 69650‬: <Media omitted>
+11/19/16, 6:27 PM - ‪+91 96083 85176‬: Td
+11/19/16, 6:28 PM - ‪+91 99761 69650‬: Rogaswer
+11/19/16, 6:28 PM - ‪+91 96083 85176‬: What ???
+11/19/16, 6:29 PM - ‪+91 96083 85176‬: Oh wring answer yes it is tr
+11/19/16, 6:30 PM - ‪+91 96083 85176‬: Use <tr> if not <td>
+11/19/16, 6:31 PM - ‪+91 99761 69650‬: <Media omitted>
+11/19/16, 6:32 PM - ‪+91 96083 85176‬: Td is actually cell tag but it asks which holds them it's table but no beside it so riws
+11/19/16, 6:32 PM - ‪+91 96083 85176‬: Form IMG type
+11/19/16, 6:33 PM - ‪+91 96083 85176‬: Are you doing it for quiz naveenda
+11/19/16, 6:33 PM - ‪+91 96083 85176‬: 😀😀😀
+11/19/16, 6:33 PM - ‪+91 96083 85176‬: Answer is Form IMG type try it
+11/19/16, 6:34 PM - ‪+91 99761 69650‬: Thank u
+11/19/16, 6:34 PM - ‪+91 96083 85176‬: Welcome
+11/19/16, 6:43 PM - ‪+91 99761 69650‬: <Media omitted>
+11/19/16, 6:44 PM - ‪+91 96083 85176‬: Align = right
+11/19/16, 6:46 PM - ‪+91 96083 85176‬: Ok bye guys I am going to study📕📒📔
+11/19/16, 7:03 PM - ‪+91 72778 00723‬: Our web address has been changed.
+TALENT HUNT ACADEMY
+New add is
+thindia.in
