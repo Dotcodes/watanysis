@@ -61,7 +61,7 @@ $group_left = substr_count($raw_file,'left');
 $media = substr_count($raw_file,'&lt;Media omitted&gt;');
 
 $Location = substr_count($raw_file,'location:');
-
+$changedno = substr_count($raw_file,' changed to ');
 
 
 $total_msg = count($matches[0]);
