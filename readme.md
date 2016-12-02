@@ -1,3 +1,4 @@
+<b>An online tool that analyzes your Whatsapp group.</b> <br>
 1. <b>TIMESPAN</b>The time for which chat has been done (from initial date to final date ).<br>
 2. <b>TIME LINE</b>  Number of sent messages with time in a graphical form.<br>
 3. <b>TOP DAYS</b> The most active Days (according to the number of messages)<br>
