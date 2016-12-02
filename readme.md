@@ -12,7 +12,7 @@
 <p>Open a chat and click on the <b>menu</b> button at the top right. Then select More, choose Email chat and click <b>WITHOUT MEDIA</b>.</p>
 <h4>Step 2</h4>
 <img src="https://github.com/Dotcodes/watanysis/blob/master/step2.jpeg?raw=true" width="222px"><hr>
-<p>Ater getting the chat-history.txt file upload that file in it. All are done you get a power full analysis report of about yor group.</p>
+<p>Ater getting the chat-history.txt file upload that file here. All done you get a powerful analysis report about your group.</p>
 <h4>Step 3</h4>
 <img src="https://github.com/Dotcodes/watanysis/blob/master/step3.jpeg?raw=true" width="222px"><hr>
-<p>After getting the chat-history.txt file upload that file in this site. All are done you get a power full analysis report of about your group.</p>
+<p>After getting the chat-history.txt file upload that file in this website. All done you get a powerful analysis report about your group.</p>
